@@ -1,0 +1,322 @@
+index,age,elimination,hometown,name,occupation,season
+0,24,Winner,"Pembroke Pines, Florida",Jennifer Wilson,Teacher,9
+1,23,Week 7,"Carlsbad, California",Sadie Murray,Publicist,9
+2,25,Week 6,"Portland, Oregon",Lisa Blank,Marketing manager,9
+3,24,Week 5,"Venice, Italy",Agnese Polliza,Student,9
+4,23,Week 4,"Bloomingdale, Illinois",Jeanette Pawula,Teacher,9
+5,22,Week 4,"Salt Lake City, Utah",Desiree Valentin,Realtor,9
+6,27,Week 3,"Galveston, Texas",Jami Matzke,Event planner,9
+7,28,Week 3,"Chicago, Illinois",Gina Clark,Ultrasound technician,9
+8,23,Week 3,"Houston, Texas",Erica Rose,Socialite,9
+9,30,Week 2,"Nelson, British Columbia",Sarah Schnare,Journalist,9
+10,27,Week 2,"Newport Beach, California",Kim Jackson,Interior designer,9
+11,30,Week 2,"New Haven, Connecticut",Ellen DeMaio,Realtor,9
+12,24,Week 1,"St. Augustine, Florida",Tara Durr,Realtor,9
+13,27,Week 1,"Chicago, Illinois",Rosella Fratto,Make-up artist,9
+14,29,Week 1,"Richmond, VA",Rita Ghazal,Policy advisor,9
+15,30,Week 1,"Baltimore, MD",Renee Snell,Broadcast marketer,9
+16,27,Week 1,"Biloxi, MS",Meri Barr,Attorney,9
+17,29,Week 1,"San Diego, CA",Laura Morgan,Dolphin trainer,9
+18,25,Week 1,"Charlotte, NC",Jessica Horner,Assistant buyer,9
+19,34,Week 1,"Aliquippa, PA",Heather Sneed,Registered nurse,9
+20,27,Week 1,"New York, NY",Elyse Hammer,Physician,9
+21,,Week 1,Italy,Cosetta Blanca,Dancer,9
+22,22,Week 1,"Boca Raton, FL",Claudia Gismondi,Restaurateur,9
+23,25,Week 1,"Cattaraugus, NY",Carissa Ilburg,Attorney,9
+24,28,Week 1,"Columbus, OH",Brit Keeder,Beer chemist,9
+25,28,Week 1,"Cincinnati, OH",Andrea Shirley,Hotel concierge,9
+26,23,Week 1,"Chicago, IL",April Jacobs,Model,9
+0,26,Winner,"San Francisco, California",Tessa Horst,Social Worker,10
+1,28,Week 8,"Palo Alto, California",Bevin Nicole Powers,Assistant,10
+2,25,Week 7,"Bethel, Connecticut",Danielle Imwalle,Graphic Designer,10
+3,23,Week 6,"Sugar Land, Texas",Amber Alchalabi,Teacher,10
+4,23,Week 5,"Overland Park, Kansas",Stephanie Wilhite,Project Manager,10
+5,26,Week 5,"Los Angeles, California",Tina Wu,Medical student,10
+6,24,Week 4,"Ravenel, South Carolina",Kate Brockhouse,Boutique owner,10
+7,26,Week 4,"Charleston, SC",Nicole Clary,Sales Manager,10
+8,27,Week 4,"Folly Beach, SC",Stephanie Tipper,Organ donor coordinator,10
+9,26,Week 3,"Dallas, TX",Amanda Hackney,Financial analyst,10
+10,24,Week 3,"Logansport, LA",Erin Parker,Financial analyst,10
+11,24,Week 3,"La Vergne, Tennessee",Peyton Wright,Sorority recruiter,10
+12,26,Week 2,"Southlake, TX",Alexis Young,Attorney,10
+13,23,Week 2,"The Woodlands, TX",Susan Anderson,Boutique manager,10
+14,28,Week 2,"Boston, MA",Tiffany Warren,Medical equipment sales rep,10
+15,29,Week 1,"Birmingham, AL",Blakeney Rowe,Radio sales,10
+16,23,Week 1,"Hilton Head Island, SC",Candace DeCost,Waitress,10
+17,23,Week 1,"Lake Forest, IL",Catherine Warren,Former Miss Illinois,10
+18,26,Week 1,"Bronx, NY",Danielle Vallis,Attorney,10
+19,23,Week 1,"Minneapolis, MN",Jackie Topelli,Executive coordinator,10
+20,27,Week 1,"Tampa, FL",Jeanette Alvarez,Health care manager,10
+21,32,Week 1,"New York, NY",Jessica Devallo,Hedge fund analyst,10
+22,33,Week 1,"Cuyahoga Falls, OH",Linda Malek,Attorney,10
+23,22,Week 1,"Lawrence, KS",Lindsay Smith,Student,10
+24,27,Week 1,"St. Louis Park, MN",Tiffany Forester,Real estate sales/development,10
+0,25,Week 8,"Newnan, Georgia",Deanna Pappas ,Realtor,11
+1,27,Week 8,"Wichita, Kansas",Jenni Croft,Phoenix Suns Cheerleader,11
+2,27,Week 7,"Washington, D.C.",Bettina Bell ,Realtor,11
+3,23,Week 6,"Walnut Creek, California",Sheena Stewart ,Internet marketing executive,11
+4,27,Week 5,"Philadelphia, Pennsylvania",Hillary Reisinger ,Registered nurse,11
+5,29,Week 5,"Gurnee, Illinois",Kristy Katzmann ,Acupuncturist,11
+6,26,Week 4,"Atlanta, Georgia","Estefania ""Stephy"" Kootz",Executive assistant,11
+7,24,Week 4,"Nashville, Tennessee",Jade Beazley ,Boutique sales worker,11
+8,26,Week 4,"Lemon Grove, California",McCarten Delaney  ,Account manager,11
+9,25,Week 3,"Livonia, Michigan",Lindsey Hawkins,Model,11
+10,23,Week 3,"O'Fallon, Illinois",Sarah Newlon,Bar manager,11
+11,25,Week 3,"Georgetown, Texas",Solisa Shoop ,Esthetician,11
+12,30,Week 2,"South Brunswick, New Jersey",Michele Leavy ,Realtor,11
+13,24,Week 2,"Honolulu, Hawaii",Mallory Simons,Nanny,11
+14,25,Week 2,"Tampa, Florida",Erin Gardner,Publishing sales executive,11
+15,27,Week 1,"Lady Lake, Florida",Jessica Kiss,News anchor,11
+16,24,Week 1,"Chicago, Illinois",Juli Gilliam,Law student,11
+17,31,Week 1,"Woodbridge, Connecticut",Kim Orville,Realtor,11
+18,33,Week 1,"Annapolis, Maryland",Lori Langley ,Biology teacher,11
+19,28,Week 1,"Westchester, New York",Melissa Buschel ,Event planner,11
+20,24,Week 1,"Tempe, Arizona",Morgan Becker,Graduate student,11
+21,25,Week 1,"Duncanville, Texas",Natalie Velasco,Law student,11
+22,31,Week 1,"San Diego, California",Regina Doringa,Account representative,11
+23,31,Week 1,"St. Louis Park, Minnesota",Tauni Nessler  ,Emergency room nurse,11
+24,35,Week 1,"St. Charles, Illinois",Susan Stein,Project analyst,11
+0,22,Winner,"Malibu, California",Shayne Lamas ,Actress,12
+1,25,Week 8,"Durango, Colorado",Chelsea Wanstrath ,Pharmaceutical sales rep.,12
+2,27,Week 7,"Niceville, Florida",Amanda Rantuccio ,Account Executive,12
+3,26,Week 6,"Loveland, Colorado",Noelle Drake ,Photographer,12
+4,27,Week 5,"Brooklyn, New York",Marshana Ritchie ,Fashion designer,12
+5,22,Week 5,"Holland, Michigan",Robin Canfield ,Advertising coordinator,12
+6,22,Week 4,"Jacksonville Beach, Florida",Ashlee Williss ,Singer-songwriter,12
+7,25,Week 4,"Hollywood, California",Kelly Duncan,Medical sales rep.,12
+8,24,Week 4,"Suffield, Ohio",Holly Durst  ,Children's book author,12
+9,22,Week 3,"Stockton, California",Amy,Nanny,12
+10,33,Week 3,"Venice, California",Erin Storm,Hot-dog vendor,12
+11,33,Week 3,"Dillsburg, Pennsylvania",Kristine Heffelfinger ,Personal trainer,12
+12,28,Week 2,"Syracuse, New York",Michelle P.,Administrative assistant,12
+13,25,Week 2,"Oklahoma City, Oklahoma",Carri Perrier  ,Church marketing rep.,12
+14,25,Week 2,"Seattle, Washington",Erin Harper  ,Event planner,12
+15,24,Week 1,"Boise, Idaho",Alyssa,Biology student,12
+16,26,Week 1,"LaFollette, Tennessee",Amanda Petterman ,Law student,12
+17,30,Week 1,"Washington, D.C",Denise,Attorney and former White House aide,12
+18,24,Week 1,"Austin, Texas",Devon,Makeup artist,12
+19,23,Week 1,"Tampa, Florida",Lesley Geyer ,Youth minister,12
+20,33,Week 1,"Laguna Niguel, California",Michele R.,Interior designer,12
+21,30,Week 1,"Alamo, California",Rebecca,Attorney,12
+22,26,Week 1,"Chicago, Illinois",Stacey Elza ,Graduate student,12
+23,23,Week 1,"Beverly Hills, California",Tamara,Cocktail waitress,12
+24,33,Week 1,"San Francisco, California",Tiffany,Real estate marketing rep.,12
+0,25,Winner,"Dallas, Texas",Melissa Rycroft ,Sales Representative,13
+1,24,Runner-up,"Brookfield, Wisconsin",Molly Malaney ,Department Store Buyer,13
+2,29,Eliminated in week 7,"Peace River, Alberta",Jillian Harris,Interior Designer,13
+3,24,Eliminated in week 6,"Carlsbad, California",Naomi Rose Crespo ,Flight Attendant,13
+4,34,Eliminated in week 5,"Huntsville, Alabama",Stephanie Hogan ,Single Mother & Medical Marketing Rep.,13
+5,27,Eliminated in week 4,"Marlboro, New Jersey",Lauren Wanger,Teacher,13
+6,25,Eliminated in week 4,"Sewickley, Pennsylvania",Megan Parris ,Single Mother and Lacrosse Coach,13
+7,29,Eliminated in week 4,"Marshall, Missouri",Shannon Bair ,Dental Hygienist,13
+8,29,Eliminated in week 4,"Blue Island, Illinois","Nicole ""Nikki"" Kaapke ",Administrative Assistant,13
+9,25,Eliminated in week 3,"Monroe, Connecticut",Erica DeSimone,Account Executive,13
+10,27,Eliminated in week 3,"Lee's Summit, Missouri",Kari Fajen ,Account Executive,13
+11,27,Eliminated in week 3,"Morton, Illinois",Natalie Getz ,Human Resources Recruiter,13
+12,27,Eliminated in week 2,"Recife, Pernambuco, Brazil",Raquel Medeiros ,Medical Student,13
+13,32,Eliminated in week 2,"Batavia, New York",Sharon Staebell ,Teacher,13
+14,28,Quit in week 2,"Boise, Idaho",Lisa Gonzalez ,Public Relations Associate,13
+15,24,Eliminated in week 1,"Phoenix, Arizona",Ann Lueders,Flight Attendant,13
+16,26,Eliminated in week 1,"Mt. Carmel, Pennsylvania",Dominique Carta,Medical Sales Rep.,13
+17,23,Eliminated in week 1,"Seattle, Washington",Emily,Casino Marketing Rep.,13
+18,26,Eliminated in week 1,"Springfield, Massachusetts",Jackie Hickey,Wedding Coordinator,13
+19,26,Eliminated in week 1,"Columbus, Ohio",Julie Dermotta,Teacher,13
+20,25,Eliminated in week 1,"Calgary, Alberta",Nicole Mah,Menswear Buyer,13
+21,36,Eliminated in week 1,"Southfield, Michigan",Renee Simlak,Jewelry Designer,13
+22,23,Eliminated in week 1,"Stockton, California",Shelby,Account Executive,13
+23,24,Eliminated in week 1,"Orem, Utah",Stacia Mann,Single Mother & Charity Accountant,13
+24,28,Eliminated in week 1,"Salt Lake City, Utah",Treasure Morgan,Single Mother and Nurse Practitioner,13
+0,23,Winner,"Geneva, Florida",Vienna Girardi  ,Marketing Representative,14
+1,25,Runner-up,"Newberg, Oregon",Tenley Molzahn  ,College Admissions,14
+2,26,Eliminated in week 7,"New York, New York",Gia Allemand  ,Swimsuit Model,14
+3,25,Quit in week 6,"Williamstown, Massachusetts",Ali Fedotowsky  ,Advertising Account Manager,14
+4,23,Eliminated in week 5,"Kissimmee, Florida",Corrie Adamson ,Wardrobe Consultant,14
+5,25,Eliminated in week 4,"North Potomac, Maryland",Ashleigh Hunt ,Account Manager,14
+6,25,Eliminated in week 4,"Oakville, Ontario",Jessie Sulidis ,Cosmetic Sales Manager,14
+7,25,Eliminated in week 4,"Lexington, Kentucky",Kathryn Sherlock ,Corporate Flight Attendant,14
+8,30,Eliminated in week 4,"La Follette, Tennessee",Ella Nolan  ,Hair Stylist,14
+9,29,Eliminated in week 3,"Imperial, Nebraska",Elizabeth Kitt (NE) ,Nanny,14
+10,32,Eliminated in week 3,"San Bernardino, California",Valishia Savage ,Homemaker,14
+11,26,Eliminated in week 3,"Anaheim, California",Michelle Kujawa ,Office Manager,14
+12,29,Eliminated in week 2,"Pittsburgh, Pennsylvania",Ashley Elmore ,Teacher,14
+13,25,Eliminated in week 2,"San Diego, California",Christina McCasland ,Restaurant Manager,14
+14,28,Disqualified in week 2,"Richmond, Virginia",Rozlyn Papa ,Model/Make-Up Artist,14
+15,25,Eliminated in week 1,"Galloway, Ohio",Alexa (Lex) McAllister ,Entrepreneur,14
+16,24,Eliminated in week 1,"Winfield, Illinois",Caitlyn McCabe ,Spokesmodel,14
+17,29,Eliminated in week 1,"Santa Rosa, California",Channy Choch ,Mortgage Loan Officer,14
+18,29,Eliminated in week 1,"Union, Kentucky",Elizabeth Kreft (D.C.) ,"Captain, Air National Guard",14
+19,23,Eliminated in week 1,"West Chester, Ohio",Emily Harkins ,Fitness Model,14
+20,24,Eliminated in week 1,"Norman, Oklahoma",Kimberly Sullivan ,NBA Dancer,14
+21,25,Eliminated in week 1,"Aurora, Colorado",Kirsten Pittman ,Waitress,14
+22,25,Eliminated in week 1,"Scottsdale, Arizona",Sheila Marie Lidner ,Commercial Pilot,14
+23,24,Eliminated in week 1,"Morris, Illinois",Stephanie Mueller ,Dance Teacher,14
+24,31,Eliminated in week 1,"Calgary, Alberta",Tiana Kruzel ,Medical Technician,14
+0,25,Winner,"Morgantown, West Virginia",Emily Maynard ,Children's Hospital Event Planner,15
+1,28,Runner-up,"Mercer Island, Washington",Chantal O'Brien ,Executive Assistant,15
+2,26,Eliminated in week 9,"Madawaska, Maine",Ashley Hebert ,Dental Student,15
+3,25,Eliminated in week 8,"Chico, California",Shawntel Newton ,Funeral Director,15
+4,30,Eliminated in week 7,"Salt Lake City, Utah",Michelle Money,Hair stylist,15
+5,25,Eliminated in week 7,"Woodinville, Washington",Britt Billmaier ,Food writer,15
+6,26,Eliminated in week 6,"Newport, Rhode Island",Jackie Gordon ,Artist,15
+7,24,Eliminated in week 6,"Columbus, Ohio",Alli Travis ,Apparel merchant,15
+8,24,Eliminated in week 5,"Ottawa, Kansas",Lisa Morrisey ,Marketing Coordinator,15
+9,26,Eliminated in week 5,"Mesa, Arizona",Marissa May ,Sports Publicist,15
+10,26,Eliminated in week 5,"Ellerbe, North Carolina",Ashley Spivey ,Nanny,15
+11,25,Eliminated in week 4,"Plano, Texas",Lindsay Hill ,First grade teacher,15
+12,30,Eliminated in week 4,"Princeton, New Jersey",Meghan Merritt,Fashion Marketer,15
+13,26,Eliminated in week 4,"Quincy, Massachusetts",Stacey Quirpel,Bartender,15
+14,27,Eliminated in week 3,"Orlando, Florida",Kimberly Coon ,Marketing Coordinator,15
+15,27,Eliminated in week 3,"Denver, Colorado",Sarah Powell ,Real Estate Broker,15
+16,25,Quit in week 3,"Vail, Colorado",Madison Garton ,Model,15
+17,28,Eliminated in week 2,"Sherwood Park, Alberta",Keltie Colleen ,Radio City Rockette,15
+18,32,Eliminated in week 2,"Westport, Connecticut",Melissa Schreiber ,Waitress,15
+19,29,Eliminated in week 2,"Fullerton, California",Raichel Goodyear ,Manscaper,15
+20,25,Eliminated in week 1,"Holland, Pennsylvania",Britnee,Paralegal,15
+21,30,Eliminated in week 1,"Davie, Florida",Cristy Caserta ,Attorney,15
+22,26,Eliminated in week 1,"Seattle, Washington","Jessica ""J"" Adams ",Operations Manager,15
+23,28,Eliminated in week 1,"Frisco, Texas",Jill Ruskowski ,Sales director,15
+24,27,Eliminated in week 1,"Tampa, Florida",Lacey Garbelman ,Insurance agent,15
+25,26,Eliminated in week 1,"Culpeper, Virginia",Lauren Moore ,High School Teacher,15
+26,27,Eliminated in week 1,"Dix Hills, New York",Lisa P.,Sales Consultant,15
+27,30,Eliminated in week 1,"Mission Viejo, California",Rebecca,Esthetician,15
+28,28,Eliminated in week 1,"Palos Hills, Illinois",Renee Halpin,Nanny,15
+29,25,Eliminated in week 1,"Saginaw, Michigan",Sarah Ledtke ,Musical Theatre Performer,15
+0,28,Winner,"Scottsdale, Arizona",Courtney Robertson  ,Model,16
+1,27,Runner-up,"Newcastle, Washington[b]",Lindzi Cox ,Business development manager,16
+2,26,Eliminated in week 9,"Hurst, Texas",Nicki Sterling ,Dental hygienist,16
+3,24,Eliminated in week 8,"Clarksville, Tennessee[c]",Kacie Boguskie ,Administrative assistant,16
+4,27,Eliminated in week 7,"Chapel Hill, North Carolina",Emily O'Brien ,PhD Student,16
+5,27,Eliminated in week 7,"Southampton, Massachusetts",Rachel Truehart ,Fashion sales representative,16
+6,25,Eliminated in week 6,"Dryden, New York",Jamie Otis ,Registered nurse,16
+7,26,Removed in week 6,"Leawood, Kansas",Casey Shteamer ,Trading clerk,16
+8,33,Eliminated in week 6,"Rutherfordton, North Carolina",Blakeley Jones ,VIP cocktail waitress,16
+9,28,Eliminated in week 5,"Cache, Oklahoma",Jennifer Fritsch ,Accountant,16
+10,24,Eliminated in week 5,"Chicago, Illinois",Elyse Myers ,Personal trainer,16
+11,33,Eliminated in week 4,"Yuba, California",Monica Spannbauer ,Dental consultant,16
+12,26,Eliminated in week 4,"Pittsburgh, Pennsylvania",Samantha Levey  ,Advertising account manager,16
+13,27,Eliminated in week 3,"Newton, Massachusetts",Jaclyn Swartz ,Advertising account manager,16
+14,23,Eliminated in week 3,"Charlottesville, Virginia",Erika Uhlig ,Law student,16
+15,26,Quit in week 3,"Colorado Springs, Colorado",Brittney Schreiner ,Medical sales representative,16
+16,28,Eliminated in week 2,"Cincinnati, Ohio",Shawn Reynolds ,Financial advisor,16
+17,27,Eliminated in week 2,"Loveland, Ohio",Jenna Burke  ,Blogger,16
+18,23,Eliminated in week 1,"Port Coquitlam, British Columbia",Amber Bacon ,Labor and delivery nurse,16
+19,28,Eliminated in week 1,"Waverly, Nebraska",Amber Tierney  ,Critical care nurse,16
+20,25,Eliminated in week 1,"Detroit, Michigan",Anna Snowball  ,Student,16
+21,30,Eliminated in week 1,"San Gabriel, California",Dianna Martinez ,Nonprofit director,16
+22,34,Eliminated in week 1,"Salyersville, Kentucky",Holly Johnson ,Pharmaceutical sales representative,16
+23,29,Eliminated in week 1,"London, England",Lyndsie James ,Internet entrepreneur,16
+24,35,Eliminated in week 1,"Massapequa Park, New York",Shira Astrof ,Actress,16
+0,26,Winner,"Seattle, Washington",Catherine Giudici ,Graphic Designer,17
+1,24,Runner-up,"Fort Bragg, North Carolina",Lindsay Yenter ,Substitute Teacher,17
+2,32,Eliminated in week 9,"Houston, Texas",AshLee Frazier ,Personal Organizer,17
+3,26,Eliminated in week 8,"Northglenn, Colorado",Desiree Hartsock ,Bridal Stylist,17
+4,24,Eliminated in week 7,"Fort Smith, Arkansas",Lesley Murphy ,Political Consultant,17
+5,24,Eliminated in week 7,"Las Vegas, Nevada",Tierra LiCausi ,Leasing Consultant,17
+6,24,Eliminated in week 6,"Belmont, California",Daniella McBride ,Commercial Casting Associate,17
+7,29,Eliminated in week 6,"Borrego Springs, California",Selma Alameri ,Real Estate Dealer,17
+8,26,Eliminated in week 6,"Evergreen, Colorado",Sarah Herron  ,Advertising Executive,17
+9,24,Eliminated in week 5,"Topeka, Kansas",Robyn Howard  ,Oil Field Account Manager,17
+10,25,Eliminated in week 5,"Ormond Beach, Florida",Jackie Parr ,Cosmetics Consultant,17
+11,26,Eliminated in week 4,"Bakersfield, California",Amanda Meyer ,Fit Model,17
+12,28,Eliminated in week 4,"Ruskin, Florida",Leslie Hughes ,Poker Dealer,17
+13,25,Eliminated in week 3,"Darien, Wisconsin",Kristy Kaminski ,Model,17
+14,30,Eliminated in week 3,"Troutdale, Oregon",Taryn Renee Daniels ,Health Club Manager,17
+15,25,Eliminated in week 3,See below,Kacie Boguskie ,See below,17
+16,25,Eliminated in week 2,"Pittsburgh, Pennsylvania",Brooke Burchette ,Community Organizer,17
+17,31,Eliminated in week 2,"Sandy, Utah",Diana Weeks Willardson ,Salon Owner,17
+18,27,Quit in week 2,"Woodstock, Illinois",Katie Levans ,Yoga Instructor,17
+19,25,Eliminated in week 1,"Garner, North Carolina",Ashley Harper ,Fashion Model,17
+20,28,Eliminated in week 1,"Macomb, Michigan",Ashley Palenkas ,Hair Stylist,17
+21,28,Eliminated in week 1,"Chattanooga, Tennessee",Kelly Dutton ,Cruise Ship Entertainer,17
+22,29,Eliminated in week 1,"Agoura Hills, California",Keriann Miranda ,Entrepreneur,17
+23,24,Eliminated in week 1,"Valencia, California",Lacey Latka ,Graduate Student,17
+24,27,Eliminated in week 1,"Cranston, Rhode Island",Lauren Marchetti ,Journalist,17
+25,25,Eliminated in week 1,"New York City, New York",Paige Vigil,Jumbotron Operator,17
+0,26,Winner,"Kearney, Missouri",Nikki Ferrell  ,Pediatric Nurse,18
+1,32,Runner-up,"Sacramento, California",Clare Crawley ,Hairstylist,18
+2,26,Quit in week 9,"Buckhead, Georgia",Andi Dorfman ,Assistant District Attorney,18
+3,32,Eliminated in week 8,"Martha's Vineyard, Massachusetts[a]",Renee Oteri ,Real Estate Agent,18
+4,24,Eliminated in week 7,"Lexington, Ohio",Chelsie Webster ,Science Educator,18
+5,29,Withdrew in week 7,"Ottawa, Ontario",Sharleen Joynt  ,Opera Singer,18
+6,29,Eliminated in week 6,"Iowa City, Iowa",Kat Hurd ,Medical Sales Representative/NBA Dancer,18
+7,22[1],Eliminated in week 6,"Shelby Charter Township, Michigan",Cassandra Ferguson ,Former NBA Dancer,18
+8,26,Eliminated in week 5,"Orland Park, Illinois",Alli Restko ,Nanny,18
+9,25,Eliminated in week 5,"Litchfield, Illinois",Danielle Ronco ,Psychiatric Nurse,18
+10,27,Eliminated in week 5,"Conyers, Georgia",Kelly Travis  ,Dog Lover,18
+11,27,Eliminated in week 4,"Forty Fort, Pennsylvania",Elise Mosca ,First Grade Teacher,18
+12,26,Eliminated in week 4,"Austin, Texas",Lauren Solomon ,Music Composer,18
+13,24,Eliminated in week 3,"Aurora, Illinois",Christy Hansen ,Marketing Manager,18
+14,25[2],Eliminated in week 3,"Santa Barbara, California","Lucy !Lucinda ""Lucy"" Aragon ",Free Spirit,18
+15,27,Eliminated in week 2,"Clermont, Florida",Amy Long ,Local News Reporter,18
+16,27,Eliminated in week 2,"Miami, Florida",Chantel Forrest ,Account Manager,18
+17,24,Eliminated in week 2,"Porto Alegre, Brazil",Victoria Lima ,Legal Assistant,18
+18,24,Eliminated in week 1,"Tampa, Florida",Alexis Morgado  ,Communications Director/NHL Ice Girl,18
+19,31,Eliminated in week 1,"Apopka, Florida",Amy Jokinen ,Massage Therapist,18
+20,25,Eliminated in week 1,"Roanoke, Texas",Ashley Poe ,Grade School Teacher,18
+21,23,Eliminated in week 1,"Miami, Florida",Christine Llano  ,Police Support Specialist,18
+22,23,Eliminated in week 1,"Rockford, Illinois",Kylie Lewis  ,Interior Designer,18
+23,25,Eliminated in week 1,"Antelope Acres, California",Lacy Faddoul  ,Nursing Home Owner,18
+24,25,Eliminated in week 1,"Edmond, Oklahoma",Lauren Higginson ,Mineral Coordinator,18
+25,25,Eliminated in week 1,"Wagener, South Carolina",Maggie Gantt  ,Personal Banker,18
+26,26,Eliminated in week 1,"Sutter, California",Valerie Eredia  ,Personal Trainer,18
+0,29,Winner,"Louisville, Kentucky[a]",Whitney Bischoff   ,Fertility Nurse,19
+1,25,Runner-up,"Shreveport, Louisiana[b]",Becca Tilley  ,Chiropractic Assistant,19
+2,29,Eliminated in week 9,"Leduc, Alberta[c]",Kaitlyn Bristowe ,Dance Instructor,19
+3,28,Eliminated in week 8,"Gering, Nebraska[d]",Jade Roper   ,Cosmetics Developer,19
+4,29,Eliminated in week 7,"Arlington, Texas",Carly Waddell ,Cruise Ship Singer,19
+5,27,Eliminated in week 7,"Wolcott Mills, Michigan",Britt Nilsson  ,Waitress,19
+6,24,Quit in week 6,"Nashville, Tennessee",Megan Bell ,Make-Up Artist,19
+7,28,Eliminated in week 6,"Hudsonville, Michigan[e]",Kelsey Poe  ,Guidance Counselor,19
+8,26,Eliminated in week 6,"Great Falls, Virginia[f]",Ashley Iaconetti  ,Nanny/Freelance Journalist,19
+9,21,Eliminated in week 5,"Maple Valley, Washington",Mackenzie Deonigi ,Dental Assistant,19
+10,27,Eliminated in week 5,"Indianapolis, Indiana[g]",Samantha Steffen  ,Fashion Designer,19
+11,24,Eliminated in week 4,"Vinings, Georgia",Ashley Salter ,Hair Stylist,19
+12,30,Eliminated in week 4,"Beaverton, Oregon",Juelia Kinney  ,Esthetician,19
+13,26,Eliminated in week 4,"Hasbrouck Heights, New Jersey",Nikki Delventhal ,Former NFL Cheerleader,19
+14,25,Eliminated in week 4,"Howland, Ohio[h]",Jillian Anderson  ,News Producer,19
+15,29,Eliminated in week 3,"Kankakee, Illinois[i]",Amber James  ,Bartender,19
+16,29,Eliminated in week 3,"Wellington, Florida",Tracy Darakis ,Fourth Grade Teacher,19
+17,33,Eliminated in week 3,"Algonquin, Illinois[j]",Trina Scherenberg  ,Special Education Teacher,19
+18,24,Eliminated in week 2,"Hamilton, New Jersey",Alissa Giambrone ,Flight Attendant,19
+19,24,"Eliminated in week 2
+Returned and left again in week 5","Windsor, Colorado",Jordan Branch ,Student,19
+20,28,"Eliminated in week 2
+Returned in week 2
+Eliminated in week 1","Wantagh, New York[36]",Kimberly Sherbach ,Yoga Instructor,19
+21,30,Eliminated in week 2,"Sandy, Utah",Tandra Steiner ,Executive Assistant,19
+22,26,Eliminated in week 2,"Fort Lauderdale, Florida",Tara Eddings  ,Sport Fishing Enthusiast,19
+23,24,Eliminated in week 1,"Lake in the Hills, Illinois",Amanda Goerlitz ,Ballet Teacher,19
+24,25,Eliminated in week 1,"Carpinteria, California",Bo Stanley ,Plus-Size Model,19
+25,26,Eliminated in week 1,"Temecula, California",Brittany Fetkin ,WWE Diva-in-Training,19
+26,25,Eliminated in week 1,"Brownsville, Kentucky",Kara Wilson ,High School Soccer Coach,19
+27,25,Eliminated in week 1,"Provo, Utah",Michelle Davis ,Wedding Cake Baker,19
+28,31,Eliminated in week 1,"Scottsdale, Arizona",Nicole Meacham  ,Real Estate Agent,19
+29,28,Eliminated in week 1,"Manhattan Beach, California",Reegan Cornwell ,Cadaver Tissue Saleswoman,19
+0,25,Winner,"West Linn, Oregon",Lauren Bushnell   ,Flight Attendant,20
+1,24,Runner-up,"Dallas, Texas","Joelle ""JoJo"" Fletcher  ",Real Estate Developer,20
+2,24,Eliminated in week 9,"Hudson, Ohio",Caila Quinn  ,Software Sales Representative,20
+3,25,Eliminated in week 8,"Rancho Santa Margarita, California",Amanda Stanton  ,Esthetician,20
+4,26,Eliminated in week 7,"Shreveport, Louisiana",Becca Tilley ,Chiropractic Assistant,20
+5,23,Eliminated in week 7,"Las Vegas, Nevada",Emily Ferguson   ,Twin,20
+6,25,Eliminated in week 6,"Dexter, Michigan",Lauren Himle ,Kindergarten Teacher,20
+7,23,Eliminated in week 6,"Austin, Texas",Olivia Caridi  ,Former News Anchor,20
+8,25,Eliminated in week 6,"Aurora, Colorado",Leah Block ,Event Planner,20
+9,25,Eliminated in week 5,"Lauderdale Lakes, Florida",Jennifer Saviano ,Small Business Owner,20
+10,24,Eliminated in week 5,"Fort Lauderdale, Florida",Jubilee Sharpe  ,War Veteran,20
+11,30,Eliminated in week 4,"Kankakee, Illinois",Amber James ,Bartender,20
+12,23,Eliminated in week 4,"Little Rock, Arkansas",Rachel Tchen ,Unemployed,20
+13,23,Eliminated in week 4,"Las Vegas, Nevada",Haley Ferguson   ,Twin,20
+14,23,Eliminated in week 3,"St. Albert, Alberta",Jami Letain ,Bartender,20
+15,27,Eliminated in week 3,"Salt Lake City, Utah",Shushanna Mkrtychyan ,Mathematician,20
+16,25,Quit in week 3,"Denver, Colorado",Lace Morris ,Real Estate Agent,20
+17,28,Eliminated in week 2,"Portland, Oregon","Amanda ""Mandi"" Kremer ",Dentist,20
+18,23,Eliminated in week 2,"Newport Beach, California","Jacqueline ""Jackie"" Dion ",Gerontologist,20
+19,26,Eliminated in week 2,"New Smyrna Beach, Florida",Samantha Passmore ,Attorney,20
+20,23,Quit in week 2,"Stillwater, Oklahoma","Lauren ""LB"" Barr ",Fashion Buyer,20
+21,30,Eliminated in week 1,"Seattle, Washington",Breanne Rice ,Nutritional Therapist,20
+22,24,Eliminated in week 1,"Branford, Connecticut","Isabel ""Izzy"" Goodkind ",Graphic Designer,20
+23,23,Eliminated in week 1,"Boca Raton, Florida",Jessica Moser ,Accountant,20
+24,24,Eliminated in week 1,"Louisville, Kentucky",Laura Esselman ,Account Executive,20
+25,26,Eliminated in week 1,"Houston, Texas",Lauren Russell ,Math Teacher,20
+26,30,Eliminated in week 1,"Visalia, California",Maegan Miller ,Cowgirl,20
+27,27,Eliminated in week 1,"Redmond, Washington",Tiara Soleim ,Chicken Enthusiast,20
