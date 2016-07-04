@@ -1,260 +1,258 @@
-index,age,elimination,hometown,name,occupation,season
-0,29,Winner,"New York, New York",Ian McKee,Equity Research Sales,2
-1,28,Episode 8,"Friendswood, Texas",Matthew Hickl,Pharmaceutical Sales Rep,2
-2,31,Episode 6,"Buffalo, New York",Chad,Pharmaceutical Sales Rep,2
-3,26,Episode 5,"Aubrey, Texas",Lanny,Stallion and Breeding Manager,2
-4,29,Episode 4,"Grand Rapids, Michigan",Brad,Pharmaceutical Sales Rep,2
-5,30,Episode 4,"Santa Barbara, California",Ryan M.,Financial Advisor,2
-6,31,Episode 4,"Wall, New Jersey",Sean,CPA,2
-7,29,Episode 3,"San Diego, California",Rick,Business Manager,2
-8,29,Episode 3,"Wynola, California",Ryan R.,Sales/Marketing,2
-9,36,Episode 3,"San Francisco, California",Todd,Options Trader,2
-10,28,Episode 2,"Cardiff, California",Damon,Arena Football Player,2
-11,25,Episode 2,"Mountain View, California",Eliot,Options Trader,2
-12,29,Episode 2,"Rock Island, Illinois",Harold Hersh,Professional Hockey Player,2
-13,26,Episode 2,"Los Angeles, California",Marcus,Personal Trainer,2
-14,32,Episode 2,"El Segundo, California",Robert,Alliance Development,2
-15,32,Episode 1,"Sacramento, California",Aaron,Title and Escrow Sales,2
-16,33,Episode 1,"Dallas, Texas",Andy Chang,Dentist,2
-17,32,Episode 1,"Venice, California",Anselm Clinard,Art Designer,2
-18,31,Episode 1,"Quincy, Massachusetts",Brian,Attorney,2
-19,31,Episode 1,"Boston, Massachusetts",Chris,Accountant,2
-20,24,Episode 1,"Long Beach Island, New Jersey",Cory Higgins,Small Business Owner,2
-21,30,Episode 1,"Macon, Georgia",Jeff O'Quinn,Pharmaceutical Sales Rep,2
-22,25,Episode 1,"Orlando, Florida",Justin,Professional Baseball Player,2
-23,31,Episode 1,"Baltimore, Maryland",Keith,Financial Analyst,2
-24,35,Episode 1,"North Wales, Pennsylvania",Trever,Restaurateur,2
-0,26,Winner,"Breckenridge, Colorado",Jesse Csincsak,Professional snowboarder,4
-1,31,Week 8,"Cleveland, Ohio",Jason Mesnick,Account executive,4
-2,30,Week 7,"Dallas, Texas",Jeremy Anderson,Real estate attorney,4
-3,29,Week 6,"Raleigh, North Carolina",Graham Bunn,Professional basketball player,4
-4,33,Week 5,"Louisville, Kentucky",Sean Ramey,Martial artist,4
-5,33,Week 5,"Tulsa, Oklahoma",Blaine Twilley,Debt manager,4
-6,31,Week 4,"Balch Springs, Texas",Brian Westendorf,High school football coach,4
-7,30,Week 4,"Skokie, Illinois","Frederick ""Fred"" Greif",Lawyer,4
-8,28,Week 4,"San Francisco, California",Robert Fair,Chef,4
-9,23,Week 3,"Bonnyville, Alberta",Paul Brosseau,Sales manager,4
-10,27,Week 3,"Sauquoit, New York",Richard Mathy,Science teacher,4
-11,36,Week 3,"Greeley, Colorado",Ronald Mayer,Barber shop owner,4
-12,29,Week 2,"Fort Worth, Texas","Christopher ""Chris"" Bradshaw",Medical sales rep.,4
-13,32,Week 2,"Boston, Massachusetts",Eric Papachristos,Senior analyst,4
-14,28,Week 2,"Minneapolis, Minnesota",Ryan Hoag ,Professional football player,4
-15,29,Week 1,"New Castle, Indiana",Brian Winchester,Computer network consultant,4
-16,25,Week 1,"Virginia Beach, Virginia",Chandler Fulton,Insurance rep.,4
-17,26,Week 1,"Lexington, South Carolina",Donato Capodanno,Sales rep.,4
-18,28,Week 1,"Rockport, Massachusetts","Gregory ""Greg"" Matthew",Personal trainer,4
-19,27,Week 1,"Miami, Florida",Jeffrey Harris,Mathematics teacher,4
-20,35,Week 1,"Williston, North Dakota","Jonathan ""Jon"" Konkel",Resort manager,4
-21,27,Week 1,"Faith, North Carolina",Luke Hamilton,Oyster farmer,4
-22,26,Week 1,"Glenwood, Illinois",Patrick Carlson,Financial analyst,4
-23,27,Week 1,"Elmhurst, Illinois",Patrick Durrere,Internet marketing,4
-24,38,Week 1,"Ellington, Connecticut",Spero Stamboulis,Actor,4
-0,29,"Winner
-Returned in week 7
-Left in week 5","Monroe, Michigan",Ed Swiderski  ,Technology Consultant,5
-1,31,Runner-up,"Encinitas, California",Kiptyn Locke ,Business Developer,5
-2,30,Eliminated in week 9,"Upper Dublin, Pennsylvania",Reid Rosenthal ,Realtor,5
-3,32,Eliminated in week 8,"Huntsville, Texas",Wes Hayden  ,Musician,5
-4,27,Eliminated in week 7,"Carmel Valley, California",Jesse Kovacs ,Wine Maker,5
-5,25,Eliminated in week 7,"Tacoma, Washington",Michael Stagliano ,Break Dance Instructor,5
-6,31,Eliminated in week 6,"Dallas, Texas",Jake Pavelka ,Commercial Pilot,5
-7,30,Eliminated in week 6,"Brownfield, Texas",Tanner Pope ,Financial Analyst,5
-8,25,Eliminated in week 6,"Spring, Texas",Robby Descant ,Bartender,5
-9,26,Eliminated in week 5,"Woodstock, Illinois",Mark Huebner ,Pizza Entrepreneur,5
-10,27,Eliminated in week 4,"West Alexandria, Ohio",David Good ,Trucking Contractor,5
-11,35,Eliminated in week 4,"Buenos Aires, Argentina",Juan Barbieri ,General Contractor,5
-12,28,Eliminated in week 4,"New York, New York",Mike Steinberg,Baseball Camp Owner,5
-13,27,Eliminated in week 3,"Park Ridge, Illinois",Brad Seberhagen,Financial Advisor,5
-14,28,Eliminated in week 3,"Derby, Kansas",Tanner Fanello,Sales Representative,5
-15,27,Eliminated in week 3,"Houston, Texas",Sasha Petrovic  ,Oil & Gas Consultant,5
-16,32,Eliminated in week 2,"Birmingham, Alabama",Brian Duke,IT Consultant,5
-17,34,Eliminated in week 2,"San Diego, California",Julien Hug ,Restaurateur,5
-18,25,Eliminated in week 2,"Andover, Kansas",Mathue Johnson,Personal Trainer,5
-19,26,Eliminated in week 2,"Bradford, England",Simon Ambrose,Soccer Coach,5
-20,27,Eliminated in week 1,"Santa Barbara, California",Adam Duvendeck,Olympic Cyclist,5
-21,28,Eliminated in week 1,"Lawton, Oklahoma",Bryan Vaderman,High School Coach,5
-22,31,Eliminated in week 1,"Fort Lauderdale, Florida",Bryce Harlow,Furniture Dealer,5
-23,27,Eliminated in week 1,"Kansas City, Missouri",Caleb Kuhl,Photographer,5
-24,31,Eliminated in week 1,"Albuquerque, New Mexico",Greg Bilbro,Entrepreneur,5
-25,27,Eliminated in week 1,"Boise, Idaho",John Hardesty,Branding Consultant,5
-26,29,Eliminated in week 1,"Fort Wayne, Indiana",John Presser ,Marketing Specialist,5
-27,25,Eliminated in week 1,"Tustin, California",Josh Yocam,Lifeguard,5
-28,26,Eliminated in week 1,"Austin, Texas",Kyle Yauch,Graphic Designer,5
-29,30,Eliminated in week 1,"Lexington, Massachusetts",Stephen Reich,Lawyer,5
-0,26,Winner,"Tampa, Florida",Roberto Martinez  ,Insurance Agent,6
-1,33,Runner-up,"Dennis, Massachusetts","Christopher ""Chris"" Lambton  ",Landscaper,6
-2,31,Removed in week 9,"Bartlett, Illinois",Frank Neuschaefer  ,Retail Manager,6
-3,27,Eliminated in week 8,"Green Bay, Wisconsin",Kirk DeWindt  ,Sales Consultant,6
-4,31,Eliminated in week 7,"Booneville, Mississippi","Tyler ""Ty"" Brown  ",Medical Sales,6
-5,27,Eliminated in week 6,"Langhorne, Pennsylvania",Craig Robinson ,Lawyer,6
-6,26,Removed in week 6,"Toronto, Ontario",Justin Rego  ,Entertainment Wrestler,6
-7,29,Eliminated in week 5,"Winter Park, Florida","Christopher ""Chris"" Nordhorn ",Entrepreneur,6
-8,27,Eliminated in week 5,"Fresno, California",Kasey Kahl ,Advertising Account Executive,6
-9,24,Eliminated in week 4,"Peculiar, Missouri",Jesse Beck ,General Contractor,6
-10,30,Eliminated in week 4,"Boston, Massachusetts",Jonathan Novack ,Weatherman,6
-11,32,Eliminated in week 3,"Mukilteo, Washington",John Crivello ,Hotel Business Development,6
-12,28,Eliminated in week 3,"Chesterland, Ohio","Steven ""Steve"" Kocsis ",Sales Representative,6
-13,28,Eliminated in week 3,"Fair Oaks Ranch, Texas",Hunter Wagner ,Internet Account Executive,6
-14,27,Eliminated in week 2,"Campbell River, British Columbia","Christopher ""Chris"" Hasek-Watt ",Real Estate Developer,6
-15,34,Eliminated in week 2,"Sarnia, Ontario",Craig McKinnon ,Dental Sales,6
-16,25,Eliminated in week 2,"Chelsea, Vermont",Tyler Vermette ,Online Advertising,6
-17,28,Eliminated in week 1,"Warren, Michigan",Derek,Sales Manager,6
-18,27,Eliminated in week 1,"Manhattan Beach, California",Derrick Schuster,Construction Engineer,6
-19,27,Eliminated in week 1,"Johnson City, Tennessee",Jason Whitehead,Construction Consultant,6
-20,29,Eliminated in week 1,"Barrington, Rhode Island",Jay Resmini ,Lawyer,6
-21,27,Eliminated in week 1,"Wichita, Kansas",John N.,Engineering Software Sales,6
-22,26,Eliminated in week 1,"Highlands Ranch, Colorado",Kyle Higgins ,Outdoorsman,6
-23,30,Eliminated in week 1,"Elmore, Ohio","Philip ""Phil"" Kayden ",Investment Manager,6
-24,25,Eliminated in week 1,"Helena, Montana",Tyler Morrow ,Catering Manager,6
-0,34,Winner,"Roslyn, New York",J.P. Rosenbaum  ,Construction Manager,7
-1,28,Runner-up,"Sonoma, California",Ben Flajnik  ,Wine Maker,7
-2,30,Withdrew in week 9,"Cumming, Georgia",Constantine Tzortzis  ,Restaurant Owner,7
-3,31,Eliminated in week 8,"Chadds Ford, Pennsylvania",Ames Brown  ,Portfolio Manager,7
-4,30,Eliminated in week 7,"Odessa, Texas",Lucas Daniels  ,Oilfield Equipment Distributor,7
-5,31,Eliminated in week 7,"Fresno, California",Ryan Park  ,Solar Energy Executive,7
-6,27,Eliminated in week 6,"Steamboat Springs, Colorado",Blake Julian  ,Dentist,7
-7,31,Withdrew in week 6,"Rochester, New York","Ryan ""Mickey"" McLean  ",Chef,7
-8,26,Eliminated in week 5,"Odessa, Florida",Nick Peterson  ,Personal Trainer,7
-9,30,Eliminated in week 5,"Fostoria, Ohio",William Holman ,Cellular Phone Salesman,7
-10,28,Eliminated in week 5,"Lake Charles, Louisiana",Ben Castoriano  ,Lawyer,7
-11,30,Eliminated in week 4,"Walhalla, South Carolina",West Lee  ,Lawyer,7
-12,35,Eliminated in week 3,"St. Louis, Missouri",Jeff Medolla  ,Entrepreneur,7
-13,25,Eliminated in week 3,"Moline, Illinois",Chris Drish ,Sports Marketing Coordinator,7
-14,28,Quit in week 3,"Salt Lake City, Utah",Bentley Williams  ,Businessman,7
-15,28,Eliminated in week 2,"Bridgewater, Massachusetts",Matt Colombo ,Office Supply Salesman,7
-16,27,Eliminated in week 2,"Novi, Michigan",Ryan Miller ,Constructor Estimator,7
-17,27,Eliminated in week 2,"Portland, Connecticut",Stephen D'Amico  ,Hairstylist,7
-18,28,Eliminated in week 1,"Saddle River, New Jersey",Anthony Santucci ,Butcher,7
-19,27,Eliminated in week 1,"Gibbons, Alberta",Chris Malhomme,Construction Company CEO,7
-20,29,Eliminated in week 1,"Anchorage, Alaska",Frank Carpenter ,College Admissions Director,7
-21,26,Eliminated in week 1,"Vancouver, Washington",Jon Ellsworth ,E-Commerce Executive,7
-22,29,Eliminated in week 1,"Providence, Rhode Island",Michael Burns ,Technology Salesman,7
-23,27,Eliminated in week 1,"Monroe, Michigan",Rob Dahm  ,Technology Executive,7
-24,35,Eliminated in week 1,"Massapequa, New York",Tim McCormack ,Liquor Distributor,7
-0,27,Winner,"St. George, Utah",Jef Holm ,Entrepreneur,8
-1,30,Runner-up,"Scottsdale, Arizona","Arie Luyendyk, Jr. ",Race Car Driver,8
-2,28,Eliminated in week 9,"Irving, Texas",Sean Lowe  ,Insurance Agent,8
-3,25,Eliminated in week 8,"Chicago, Illinois",Chris Bukowski ,Corporate Sales Director,8
-4,30,Eliminated in week 7,"Creve Coeur, Missouri",John Wolfner ,Data Destruction Specialist,8
-5,33,Eliminated in week 7,"Tacoma, Washington",Doug Clerget ,Single Dad/Real Estate Agent,8
-6,31,Eliminated in week 6,"Evans, Georgia",Ryan Bowers ,Pro Sports Trainer,8
-7,30,Eliminated in week 6,"Madison, Mississippi",Travis Pope ,Advertising Sales Representative,8
-8,25,Eliminated in week 5,"San Francisco, California",Alejandro Velez ,Mushroom Farmer,8
-9,27,Eliminated in week 5,"Houston, Texas",Kalon McMahon ,Luxury Brand Consultant,8
-10,32,Eliminated in week 4,"Worcester, Massachusetts",Charlie Grogan ,Recruiter,8
-11,26,Eliminated in week 4,"Austin, Texas",Michael Nance ,Rehab Counselor,8
-12,25,Eliminated in week 4,"Casa Grande, Arizona",Nathan Baake ,Accountant,8
-13,26,Eliminated in week 3,"Monroe Township, New Jersey",Stevie Alberino,Party M.C.,8
-14,30,Eliminated in week 3,"Saint Paul, Minnesota",Alessandro Goulart ,Grain Merchant,8
-15,31,Eliminated in week 3,"Beaverton, Oregon",Tony Pieper ,Single Dad/Lumber Trader,8
-16,36,Eliminated in week 2,"North Sydney, Nova Scotia",Aaron Martell  ,Biology Teacher,8
-17,29,Eliminated in week 2,"Long Beach, California",Kyle Dillon  ,Financial Adviser,8
-18,27,Eliminated in week 2,"Orlando, Florida",Joe Gendreau  ,Field Energy Adviser,8
-19,41,Eliminated in week 1,"Midland, Texas",Brent Richter ,Technology Salesman,8
-20,33,Eliminated in week 1,"Charlottesville, Virginia",David Homyk  ,Singer/Songwriter,8
-21,29,Eliminated in week 1,"Lockport, Illinois",Jackson Longnecker ,Fitness Model,8
-22,35,Eliminated in week 1,"Moraga, California",Jean-Paul LaCount ,Marine Biologist,8
-23,29,Eliminated in week 1,"Laguna Beach, California",Lerone Anu  ,Real Estate Consultant,8
-24,30,Eliminated in week 1,"Oak Creek, Wisconsin",Randy Lee Woyak ,Marketing Manager,8
-0,27,Winner,"McMinnville, Oregon",Chris Siegfried ,Mortgage Broker,9
-1,27,Runner-up,"Scottsdale, Arizona",Drew Kenney ,Digital Marketing Analyst,9
-2,28,Withdrew in week 9,"Blackfoot, Idaho",Brooks Forester ,Sales & Marketing,9
-3,31,Eliminated in week 8,"Dallas, Texas",Zak Waddell ,Drilling Fluid Engineer,9
-4,33,Eliminated in week 7,"Lindenhurst, New York",Michael Garofola ,Federal Prosecutor,9
-5,27,Eliminated in week 6,"Marietta, Georgia",James Case  ,Advertising Executive,9
-6,31,Eliminated in week 6,"Barquisimeto, Venezuela",Juan Pablo Galavis ,Former Pro Soccer Player,9
-7,29,Eliminated in week 6,"Tulsa, Oklahoma",Kasey Stewart ,Advertising Executive,9
-8,30,Eliminated in week 5,"Glen Ellyn, Illinois",Mikey Tenerelli  ,Plumbing Contractor,9
-9,28,Eliminated in week 5,"Lubbock, Texas",Ben Scott ,Entrepreneur,9
-10,26,Quit in week 5,"Havre, Montana",Bryden Vukasin ,Iraq War Veteran,9
-11,28,Eliminated in week 4,"Phillips Ranch, California",Zack Kalter ,Book Publisher,9
-12,27,Eliminated in week 4,"Denver, Colorado",Brad McKinzie ,Accountant/DJ,9
-13,26,Eliminated in week 3,"Blaine, Minnesota",Brandon Andreen ,Painting Contractor,9
-14,30,Eliminated in week 3,"Dublin, California",Dan Cox ,Beverage Sales Director,9
-15,29,Removed in week 3,"Olney, Maryland",Brian Jarosinski  ,Financial Advisor,9
-16,27,Eliminated in week 2,"Rochester, New York",Nick Mucci ,Investment Adviser,9
-17,30,Eliminated in week 2,"Glendale, Arizona",Robert Graham ,Advertising Entrepreneur,9
-18,28,Eliminated in week 2,"Federal Way, Washington",Will Reese ,Banker,9
-19,29,Eliminated in week 1,"Penha, Brazil",Diogo Custodio,Ski Resort Manager,9
-20,34,Eliminated in week 1,"Overland Park, Kansas",Larry Burchett ,ER Doctor,9
-21,32,Eliminated in week 1,"Detroit Lakes, Minnesota",Micah Heisler,Law Student,9
-22,28,Eliminated in week 1,"London, England",Mike Ryatuk,Dental Student,9
-23,26,Eliminated in week 1,"Ridgefield, Connecticut",Nick Roy ,Tailor/Magician,9
-24,26,Eliminated in week 1,"Hickory, North Carolina",Jonathan Vollinger ,Lawyer,9
-0,29,Winner,"Athens, Georgia",Josh Murray  ,Former Professional Baseball Player,10
-1,33,Runner-up,"Waukesha, Wisconsin",Nick Viall  ,Software Sales Executive,10
-2,32,Eliminated in week 9,"Lamont, Iowa",Chris Soules ,Farmer,10
-3,25,Eliminated in week 8,"Medicine Hat, Alberta",Marcus Grodd ,Sports Medicine Manager,10
-4,27,Eliminated in week 7,"Camp Hill, Pennsylvania",Brian Osborne ,Basketball Coach,10
-5,26,Eliminated in week 7,"Longmeadow, Massachusetts",Dylan Petitt ,Accountant,10
-6,30,Eliminated in week 6,"Hanover, Massachusetts",J.J. O'Brien  ,Pantsapreneur,10
-7,28,Eliminated in week 6,"Oakley, Kansas",Cody Sattler  ,Personal Trainer,10
-8,30,Eliminated in week 5,"Portola Valley, California",Andrew Poole ,Social Media Marketer,10
-9,26,Eliminated in week 5,"Rialto, California",Marquel Martin  ,Sponsorship Salesman,10
-10,29,Eliminated in week 5,"Clinton, New Jersey",Patrick Jagodzinski ,Advertising Executive,10
-11,30,Eliminated in week 4,"Denver, Colorado",Tasos Hernandez ,Wedding Event Coordinator,10
-12,31[1],Eliminated in week 4,"Citrus Heights, California",Eric Hill    ,Explorer,10
-13,32,Eliminated in week 3,"Grosse Pointe, Michigan",Bradley Wisk ,Opera Singer,10
-14,29,Eliminated in week 3,"Warminster, Pennsylvania",Brett Melnick   ,Hairstylist,10
-15,28,Quit in week 3,"Nahariya, Israel",Ron Worrell ,Beverage Sales Manager,10
-16,30,Eliminated in week 2,"Hollywood, California",Carl King ,Firefighter,10
-17,29,Eliminated in week 2,"Defiance, Iowa",Craig Muhlbauer ,Tax Accountant,10
-18,27,Eliminated in week 2,"Barrington, Illinois",Nick Sutter ,Professional Golfer,10
-19,33,Eliminated in week 1,"Portland, Oregon",Emil Schaffroth ,Helicopter Pilot,10
-20,35,Eliminated in week 1,"Sturgeon Bay, Wisconsin",Jason Leep  ,Urgent Care Physician,10
-21,29,Eliminated in week 1,"Evergreen, Colorado",Josh Bauer ,Telecommunication Marketer,10
-22,29,Eliminated in week 1,"Guilderland, New York",Mike Campanelli  ,Bartender,10
-23,31,Eliminated in week 1,"Yorba Linda, California",Rudie Dane ,Attorney,10
-24,30,Eliminated in week 1,"Meadow Vista, California",Steven Woolworth ,Snowboard Product Developer,10
-0,28,Winner,"Windsor Locks, Connecticut",Shawn Booth ,Personal Trainer,11
-1,34,Runner Up,"Waukesha, Wisconsin","Nicholas ""Nick"" Viall  ",Software Sales Executive,11
-2,26,Eliminated in week 8,"Warsaw, Indiana","Benjamin ""Ben"" Higgins  ",Software Salesman,11
-3,26,Eliminated in week 7,"Warwick, Rhode Island",Jared Haibon ,Restaurant Manager,11
-4,28,Eliminated in week 7,"Glasgow, Kentucky","Joseph ""Joe"" Bailey  ",Insurance Agent,11
-5,28,Eliminated in week 7,"Granite Bay, California","Christopher ""Chris"" Strandburg ",Dentist,11
-6,26,Eliminated in week 6,"Falls Church, Virginia","Benjamin ""Ben"" Zorn  ",Fitness Coach,11
-7,28,Eliminated in week 6,"Stilwell, Kansas",Tanner Tolbert ,Auto Finance Manager,11
-8,32,Eliminated in week 6,"Dacono, Colorado","John ""JJ"" Lane III ",Former Investment Banker,11
-9,31,Eliminated in week 5,"Ventura, California",Joshua Albers ,Industrial Welder,11
-10,28,Eliminated in week 5,"Elgin, Illinois",Justin Reich ,Fitness Trainer,11
-11,28,Quit in week 5,"Ramsey, New Jersey",Ian Thomson ,Executive Recruiter,11
-12,30,Eliminated in week 4,"New York, New York",Corey Stansell (NY) ,Investment Banker,11
-13,33,Eliminated in week 4,"Sylvan Lake, Michigan",Jonathan Holloway ,Automotive Spokesman,11
-14,32,Eliminated in week 4,"Wellington, Florida",Ryan Beckett ,Realtor,11
-15,27,Eliminated in week 3,"Batavia, Illinois",Clint Arlis   ,Architectural Engineer,11
-16,35,Quit in week 3,"St. Louis, Missouri","Anthony ""Tony"" Harris  ",Healer,11
-17,35,Eliminated in week 2,"Seven Springs, North Carolina",Cory Shivar (NC)  ,Residential Developer,11
-18,28,Eliminated in week 2,"Nashville, Tennessee",Daniel Finney ,Fashion Designer,11
-19,32,Eliminated in week 2,"Boston, Massachusetts",Kupah James ,Entrepreneur,11
-20,25,Eliminated in week 1,"Duluth, Georgia",Bradley Cox ,International Auto Shipper,11
-21,28,Eliminated in week 1,"Orlando, Florida",David,Real Estate Agent,11
-22,27,Eliminated in week 1,"Chicago, Illinois","Joshua ""Josh"" Seiter  ",Law Student/Exotic Dancer,11
-23,31,Eliminated in week 1,"London, Ontario",Shawn Evans ,Amateur Sex Coach,11
-24,33,Quit in week 1,"Wauseon, Ohio","Bradley ""Brady"" Toops ",Singer/Songwriter,11
-25,28,Removed in week 1,"Kansas City, Missouri",Ryan McDill  ,Junkyard Specialist,11
-0,25,,"Oceanside, California",Alex Wotykiw ,U.S. Marine,12
-1,27,,"Castle Rock, Colorado",Chase McNary ,Medical Sales Rep,12
-2,29,,"Katy, Texas",James Taylor ,Singer-Songwriter,12
-3,27,,"Chico, California",Jordan Rodgers  ,Former Pro Quarterback,12
-4,31,,"Burnet, Texas",Luke Pell ,War Veteran,12
-5,27,,"St. Augustine, Florida",Robby Hayes ,Former Competitive Swimmer,12
-6,29,Eliminated in week 6,"Waverly, Iowa",Derek Peth ,Commercial Banker,12
-7,31,Eliminated in week 6,"Monterey, California",Wells Adams   ,Radio DJ,12
-8,33,Eliminated in week 5,"Athens, Alabama",Evan Bass  ,Erectile Dysfunction Specialist,12
-9,27,Eliminated in week 5,"San Francisco, California",Grant Kemp ,Firefighter,12
-10,28,Eliminated in week 5,"Delray Beach, Florida","Vincent ""Vinny"" Ventiera ",Barber,12
-11,31,Eliminated in week 4,"Vancouver, British Columbia",Daniel Maguire ,Canadian,12
-12,34,Eliminated in week 4,"Franklin, Tennessee",James Fuertes ,Boxing Club Owner,12
-13,28,Eliminated in week 4,"Jenks, Oklahoma",Chad Johnson  ,Luxury Real Estate Agent,12
-14,27,Eliminated in week 3,"Santa Monica, California",Ali Zahiri ,Bartender,12
-15,26,Eliminated in week 3,"Los Angeles, California",Christian Bishop  ,Telecom Consultant,12
-16,33,Eliminated in week 3,"Carthage, Illinois",Nick Benvenutti  ,Electrical Engineer,12
-17,28,Eliminated in week 2,"Marysville, Washington",Brandon Howell ,Hipster,12
-18,27,Eliminated in week 2,"Phoenix, Arizona",James Spadafore ,Bachelor Superfan,12
-19,26,Eliminated in week 2,"Jersey City, New Jersey",Will Haduch ,Civil Engineer,12
-20,27,Eliminated in week 1,"Chicago, Illinois",Coley Knust ,Real Estate Consultant,12
-21,26,Eliminated in week 1,"Playa Vista, California",Jake Patton ,Landscape Architect,12
-22,29,Eliminated in week 1,"Vancouver, British Columbia",Jonathan Hamilton ,Technical Sales Rep,12
-23,26,Eliminated in week 1,"San Francisco, California",Nick Sharp ,Software Salesman,12
-24,26,Eliminated in week 1,"Rockdale, Illinois",Peter Medina ,Staffing Agency Manager,12
-25,28,Eliminated in week 1,"Hubbard, Ohio",Sal DeJulio ,Operations Manager,12
+index,age,elimination,hometown,name,name_abbreviation,occupation,season
+0,29,Winner,"New York, New York",Ian McKee,Ian M.,Equity Research Sales,2
+1,28,8,"Friendswood, Texas",Matthew Hickl,Matthew H.,Pharmaceutical Sales Rep,2
+2,31,6,"Buffalo, New York",Chad,Chad,Pharmaceutical Sales Rep,2
+3,26,5,"Aubrey, Texas",Lanny,Lanny,Stallion and Breeding Manager,2
+4,29,4,"Grand Rapids, Michigan",Brad,Brad,Pharmaceutical Sales Rep,2
+5,30,4,"Santa Barbara, California",Ryan M.,Ryan M.,Financial Advisor,2
+6,31,4,"Wall, New Jersey",Sean,Sean,CPA,2
+7,29,3,"San Diego, California",Rick,Rick,Business Manager,2
+8,29,3,"Wynola, California",Ryan R.,Ryan R.,Sales/Marketing,2
+9,36,3,"San Francisco, California",Todd,Todd,Options Trader,2
+10,28,2,"Cardiff, California",Damon,Damon,Arena Football Player,2
+11,25,2,"Mountain View, California",Eliot,Eliot,Options Trader,2
+12,29,2,"Rock Island, Illinois",Harold Hersh,Harold H.,Professional Hockey Player,2
+13,26,2,"Los Angeles, California",Marcus,Marcus,Personal Trainer,2
+14,32,2,"El Segundo, California",Robert,Robert,Alliance Development,2
+15,32,1,"Sacramento, California",Aaron,Aaron,Title and Escrow Sales,2
+16,33,1,"Dallas, Texas",Andy Chang,Andy C.,Dentist,2
+17,32,1,"Venice, California",Anselm Clinard,Anselm C.,Art Designer,2
+18,31,1,"Quincy, Massachusetts",Brian,Brian,Attorney,2
+19,31,1,"Boston, Massachusetts",Chris,Chris,Accountant,2
+20,24,1,"Long Beach Island, New Jersey",Cory Higgins,Cory H.,Small Business Owner,2
+21,30,1,"Macon, Georgia",Jeff O'Quinn,Jeff O.,Pharmaceutical Sales Rep,2
+22,25,1,"Orlando, Florida",Justin,Justin,Professional Baseball Player,2
+23,31,1,"Baltimore, Maryland",Keith,Keith,Financial Analyst,2
+24,35,1,"North Wales, Pennsylvania",Trever,Trever,Restaurateur,2
+0,26,Winner,"Breckenridge, Colorado",Jesse Csincsak,Jesse C.,Professional snowboarder,4
+1,31,8,"Cleveland, Ohio",Jason Mesnick,Jason M.,Account executive,4
+2,30,7,"Dallas, Texas",Jeremy Anderson,Jeremy A.,Real estate attorney,4
+3,29,6,"Raleigh, North Carolina",Graham Bunn,Graham B.,Professional basketball player,4
+4,33,5,"Louisville, Kentucky",Sean Ramey,Sean R.,Martial artist,4
+5,33,5,"Tulsa, Oklahoma",Blaine Twilley,Blaine T.,Debt manager,4
+6,31,4,"Balch Springs, Texas",Brian Westendorf,Brian W.,High school football coach,4
+7,30,4,"Skokie, Illinois","Frederick ""Fred"" Greif",Frederick G.,Lawyer,4
+8,28,4,"San Francisco, California",Robert Fair,Robert F.,Chef,4
+9,23,3,"Bonnyville, Alberta",Paul Brosseau,Paul B.,Sales manager,4
+10,27,3,"Sauquoit, New York",Richard Mathy,Richard M.,Science teacher,4
+11,36,3,"Greeley, Colorado",Ronald Mayer,Ronald M.,Barber shop owner,4
+12,29,2,"Fort Worth, Texas","Christopher ""Chris"" Bradshaw",Christopher B.,Medical sales rep.,4
+13,32,2,"Boston, Massachusetts",Eric Papachristos,Eric P.,Senior analyst,4
+14,28,2,"Minneapolis, Minnesota",Ryan Hoag ,Ryan H.,Professional football player,4
+15,29,1,"New Castle, Indiana",Brian Winchester,Brian W.,Computer network consultant,4
+16,25,1,"Virginia Beach, Virginia",Chandler Fulton,Chandler F.,Insurance rep.,4
+17,26,1,"Lexington, South Carolina",Donato Capodanno,Donato C.,Sales rep.,4
+18,28,1,"Rockport, Massachusetts","Gregory ""Greg"" Matthew",Gregory M.,Personal trainer,4
+19,27,1,"Miami, Florida",Jeffrey Harris,Jeffrey H.,Mathematics teacher,4
+20,35,1,"Williston, North Dakota","Jonathan ""Jon"" Konkel",Jonathan K.,Resort manager,4
+21,27,1,"Faith, North Carolina",Luke Hamilton,Luke H.,Oyster farmer,4
+22,26,1,"Glenwood, Illinois",Patrick Carlson,Patrick C.,Financial analyst,4
+23,27,1,"Elmhurst, Illinois",Patrick Durrere,Patrick D.,Internet marketing,4
+24,38,1,"Ellington, Connecticut",Spero Stamboulis,Spero S.,Actor,4
+0,29,7,"Monroe, Michigan",Ed Swiderski  ,Ed S.,Technology Consultant,5
+1,31,Runner-up,"Encinitas, California",Kiptyn Locke ,Kiptyn L.,Business Developer,5
+2,30,9,"Upper Dublin, Pennsylvania",Reid Rosenthal ,Reid R.,Realtor,5
+3,32,8,"Huntsville, Texas",Wes Hayden  ,Wes H.,Musician,5
+4,27,7,"Carmel Valley, California",Jesse Kovacs ,Jesse K.,Wine Maker,5
+5,25,7,"Tacoma, Washington",Michael Stagliano ,Michael S.,Break Dance Instructor,5
+6,31,6,"Dallas, Texas",Jake Pavelka ,Jake P.,Commercial Pilot,5
+7,30,6,"Brownfield, Texas",Tanner Pope ,Tanner P.,Financial Analyst,5
+8,25,6,"Spring, Texas",Robby Descant ,Robby D.,Bartender,5
+9,26,5,"Woodstock, Illinois",Mark Huebner ,Mark H.,Pizza Entrepreneur,5
+10,27,4,"West Alexandria, Ohio",David Good ,David G.,Trucking Contractor,5
+11,35,4,"Buenos Aires, Argentina",Juan Barbieri ,Juan B.,General Contractor,5
+12,28,4,"New York, New York",Mike Steinberg,Mike S.,Baseball Camp Owner,5
+13,27,3,"Park Ridge, Illinois",Brad Seberhagen,Brad S.,Financial Advisor,5
+14,28,3,"Derby, Kansas",Tanner Fanello,Tanner F.,Sales Representative,5
+15,27,3,"Houston, Texas",Sasha Petrovic  ,Sasha P.,Oil & Gas Consultant,5
+16,32,2,"Birmingham, Alabama",Brian Duke,Brian D.,IT Consultant,5
+17,34,2,"San Diego, California",Julien Hug ,Julien H.,Restaurateur,5
+18,25,2,"Andover, Kansas",Mathue Johnson,Mathue J.,Personal Trainer,5
+19,26,2,"Bradford, England",Simon Ambrose,Simon A.,Soccer Coach,5
+20,27,1,"Santa Barbara, California",Adam Duvendeck,Adam D.,Olympic Cyclist,5
+21,28,1,"Lawton, Oklahoma",Bryan Vaderman,Bryan V.,High School Coach,5
+22,31,1,"Fort Lauderdale, Florida",Bryce Harlow,Bryce H.,Furniture Dealer,5
+23,27,1,"Kansas City, Missouri",Caleb Kuhl,Caleb K.,Photographer,5
+24,31,1,"Albuquerque, New Mexico",Greg Bilbro,Greg B.,Entrepreneur,5
+25,27,1,"Boise, Idaho",John Hardesty,John H.,Branding Consultant,5
+26,29,1,"Fort Wayne, Indiana",John Presser ,John P.,Marketing Specialist,5
+27,25,1,"Tustin, California",Josh Yocam,Josh Y.,Lifeguard,5
+28,26,1,"Austin, Texas",Kyle Yauch,Kyle Y.,Graphic Designer,5
+29,30,1,"Lexington, Massachusetts",Stephen Reich,Stephen R.,Lawyer,5
+0,26,Winner,"Tampa, Florida",Roberto Martinez  ,Roberto M.,Insurance Agent,6
+1,33,Runner-up,"Dennis, Massachusetts","Christopher ""Chris"" Lambton  ",Christopher L.,Landscaper,6
+2,31,9,"Bartlett, Illinois",Frank Neuschaefer  ,Frank N.,Retail Manager,6
+3,27,8,"Green Bay, Wisconsin",Kirk DeWindt  ,Kirk D.,Sales Consultant,6
+4,31,7,"Booneville, Mississippi","Tyler ""Ty"" Brown  ",Tyler B.,Medical Sales,6
+5,27,6,"Langhorne, Pennsylvania",Craig Robinson ,Craig R.,Lawyer,6
+6,26,6,"Toronto, Ontario",Justin Rego  ,Justin R.,Entertainment Wrestler,6
+7,29,5,"Winter Park, Florida","Christopher ""Chris"" Nordhorn ",Christopher N.,Entrepreneur,6
+8,27,5,"Fresno, California",Kasey Kahl ,Kasey K.,Advertising Account Executive,6
+9,24,4,"Peculiar, Missouri",Jesse Beck ,Jesse B.,General Contractor,6
+10,30,4,"Boston, Massachusetts",Jonathan Novack ,Jonathan N.,Weatherman,6
+11,32,3,"Mukilteo, Washington",John Crivello ,John C.,Hotel Business Development,6
+12,28,3,"Chesterland, Ohio","Steven ""Steve"" Kocsis ",Steven K.,Sales Representative,6
+13,28,3,"Fair Oaks Ranch, Texas",Hunter Wagner ,Hunter W.,Internet Account Executive,6
+14,27,2,"Campbell River, British Columbia","Christopher ""Chris"" Hasek-Watt ",Christopher H.,Real Estate Developer,6
+15,34,2,"Sarnia, Ontario",Craig McKinnon ,Craig M.,Dental Sales,6
+16,25,2,"Chelsea, Vermont",Tyler Vermette ,Tyler V.,Online Advertising,6
+17,28,1,"Warren, Michigan",Derek,Derek,Sales Manager,6
+18,27,1,"Manhattan Beach, California",Derrick Schuster,Derrick S.,Construction Engineer,6
+19,27,1,"Johnson City, Tennessee",Jason Whitehead,Jason W.,Construction Consultant,6
+20,29,1,"Barrington, Rhode Island",Jay Resmini ,Jay R.,Lawyer,6
+21,27,1,"Wichita, Kansas",John N.,John N.,Engineering Software Sales,6
+22,26,1,"Highlands Ranch, Colorado",Kyle Higgins ,Kyle H.,Outdoorsman,6
+23,30,1,"Elmore, Ohio","Philip ""Phil"" Kayden ",Philip K.,Investment Manager,6
+24,25,1,"Helena, Montana",Tyler Morrow ,Tyler M.,Catering Manager,6
+0,34,Winner,"Roslyn, New York",J.P. Rosenbaum  ,J.P. R.,Construction Manager,7
+1,28,Runner-up,"Sonoma, California",Ben Flajnik  ,Ben F.,Wine Maker,7
+2,30,9,"Cumming, Georgia",Constantine Tzortzis  ,Constantine T.,Restaurant Owner,7
+3,31,8,"Chadds Ford, Pennsylvania",Ames Brown  ,Ames B.,Portfolio Manager,7
+4,30,7,"Odessa, Texas",Lucas Daniels  ,Lucas D.,Oilfield Equipment Distributor,7
+5,31,7,"Fresno, California",Ryan Park  ,Ryan P.,Solar Energy Executive,7
+6,27,6,"Steamboat Springs, Colorado",Blake Julian  ,Blake J.,Dentist,7
+7,31,6,"Rochester, New York","Ryan ""Mickey"" McLean  ",Ryan M.,Chef,7
+8,26,5,"Odessa, Florida",Nick Peterson  ,Nick P.,Personal Trainer,7
+9,30,5,"Fostoria, Ohio",William Holman ,William H.,Cellular Phone Salesman,7
+10,28,5,"Lake Charles, Louisiana",Ben Castoriano  ,Ben C.,Lawyer,7
+11,30,4,"Walhalla, South Carolina",West Lee  ,West L.,Lawyer,7
+12,35,3,"St. Louis, Missouri",Jeff Medolla  ,Jeff M.,Entrepreneur,7
+13,25,3,"Moline, Illinois",Chris Drish ,Chris D.,Sports Marketing Coordinator,7
+14,28,3,"Salt Lake City, Utah",Bentley Williams  ,Bentley W.,Businessman,7
+15,28,2,"Bridgewater, Massachusetts",Matt Colombo ,Matt C.,Office Supply Salesman,7
+16,27,2,"Novi, Michigan",Ryan Miller ,Ryan M.,Constructor Estimator,7
+17,27,2,"Portland, Connecticut",Stephen D'Amico  ,Stephen D.,Hairstylist,7
+18,28,1,"Saddle River, New Jersey",Anthony Santucci ,Anthony S.,Butcher,7
+19,27,1,"Gibbons, Alberta",Chris Malhomme,Chris M.,Construction Company CEO,7
+20,29,1,"Anchorage, Alaska",Frank Carpenter ,Frank C.,College Admissions Director,7
+21,26,1,"Vancouver, Washington",Jon Ellsworth ,Jon E.,E-Commerce Executive,7
+22,29,1,"Providence, Rhode Island",Michael Burns ,Michael B.,Technology Salesman,7
+23,27,1,"Monroe, Michigan",Rob Dahm  ,Rob D.,Technology Executive,7
+24,35,1,"Massapequa, New York",Tim McCormack ,Tim M.,Liquor Distributor,7
+0,27,Winner,"St. George, Utah",Jef Holm ,Jef H.,Entrepreneur,8
+1,30,Runner-up,"Scottsdale, Arizona","Arie Luyendyk, Jr. ",Arie J.,Race Car Driver,8
+2,28,9,"Irving, Texas",Sean Lowe  ,Sean L.,Insurance Agent,8
+3,25,8,"Chicago, Illinois",Chris Bukowski ,Chris B.,Corporate Sales Director,8
+4,30,7,"Creve Coeur, Missouri",John Wolfner ,John W.,Data Destruction Specialist,8
+5,33,7,"Tacoma, Washington",Doug Clerget ,Doug C.,Single Dad/Real Estate Agent,8
+6,31,6,"Evans, Georgia",Ryan Bowers ,Ryan B.,Pro Sports Trainer,8
+7,30,6,"Madison, Mississippi",Travis Pope ,Travis P.,Advertising Sales Representative,8
+8,25,5,"San Francisco, California",Alejandro Velez ,Alejandro V.,Mushroom Farmer,8
+9,27,5,"Houston, Texas",Kalon McMahon ,Kalon M.,Luxury Brand Consultant,8
+10,32,4,"Worcester, Massachusetts",Charlie Grogan ,Charlie G.,Recruiter,8
+11,26,4,"Austin, Texas",Michael Nance ,Michael N.,Rehab Counselor,8
+12,25,4,"Casa Grande, Arizona",Nathan Baake ,Nathan B.,Accountant,8
+13,26,3,"Monroe Township, New Jersey",Stevie Alberino,Stevie A.,Party M.C.,8
+14,30,3,"Saint Paul, Minnesota",Alessandro Goulart ,Alessandro G.,Grain Merchant,8
+15,31,3,"Beaverton, Oregon",Tony Pieper ,Tony P.,Single Dad/Lumber Trader,8
+16,36,2,"North Sydney, Nova Scotia",Aaron Martell  ,Aaron M.,Biology Teacher,8
+17,29,2,"Long Beach, California",Kyle Dillon  ,Kyle D.,Financial Adviser,8
+18,27,2,"Orlando, Florida",Joe Gendreau  ,Joe G.,Field Energy Adviser,8
+19,41,1,"Midland, Texas",Brent Richter ,Brent R.,Technology Salesman,8
+20,33,1,"Charlottesville, Virginia",David Homyk  ,David H.,Singer/Songwriter,8
+21,29,1,"Lockport, Illinois",Jackson Longnecker ,Jackson L.,Fitness Model,8
+22,35,1,"Moraga, California",Jean-Paul LaCount ,Jean-Paul L.,Marine Biologist,8
+23,29,1,"Laguna Beach, California",Lerone Anu  ,Lerone A.,Real Estate Consultant,8
+24,30,1,"Oak Creek, Wisconsin",Randy Lee Woyak ,Randy W.,Marketing Manager,8
+0,27,Winner,"McMinnville, Oregon",Chris Siegfried ,Chris S.,Mortgage Broker,9
+1,27,Runner-up,"Scottsdale, Arizona",Drew Kenney ,Drew K.,Digital Marketing Analyst,9
+2,28,9,"Blackfoot, Idaho",Brooks Forester ,Brooks F.,Sales & Marketing,9
+3,31,8,"Dallas, Texas",Zak Waddell ,Zak W.,Drilling Fluid Engineer,9
+4,33,7,"Lindenhurst, New York",Michael Garofola ,Michael G.,Federal Prosecutor,9
+5,27,6,"Marietta, Georgia",James Case  ,James C.,Advertising Executive,9
+6,31,6,"Barquisimeto, Venezuela",Juan Pablo Galavis ,Juan G.,Former Pro Soccer Player,9
+7,29,6,"Tulsa, Oklahoma",Kasey Stewart ,Kasey S.,Advertising Executive,9
+8,30,5,"Glen Ellyn, Illinois",Mikey Tenerelli  ,Mikey T.,Plumbing Contractor,9
+9,28,5,"Lubbock, Texas",Ben Scott ,Ben S.,Entrepreneur,9
+10,26,5,"Havre, Montana",Bryden Vukasin ,Bryden V.,Iraq War Veteran,9
+11,28,4,"Phillips Ranch, California",Zack Kalter ,Zack K.,Book Publisher,9
+12,27,4,"Denver, Colorado",Brad McKinzie ,Brad M.,Accountant/DJ,9
+13,26,3,"Blaine, Minnesota",Brandon Andreen ,Brandon A.,Painting Contractor,9
+14,30,3,"Dublin, California",Dan Cox ,Dan C.,Beverage Sales Director,9
+15,29,3,"Olney, Maryland",Brian Jarosinski  ,Brian J.,Financial Advisor,9
+16,27,2,"Rochester, New York",Nick Mucci ,Nick M.,Investment Adviser,9
+17,30,2,"Glendale, Arizona",Robert Graham ,Robert G.,Advertising Entrepreneur,9
+18,28,2,"Federal Way, Washington",Will Reese ,Will R.,Banker,9
+19,29,1,"Penha, Brazil",Diogo Custodio,Diogo C.,Ski Resort Manager,9
+20,34,1,"Overland Park, Kansas",Larry Burchett ,Larry B.,ER Doctor,9
+21,32,1,"Detroit Lakes, Minnesota",Micah Heisler,Micah H.,Law Student,9
+22,28,1,"London, England",Mike Ryatuk,Mike R.,Dental Student,9
+23,26,1,"Ridgefield, Connecticut",Nick Roy ,Nick R.,Tailor/Magician,9
+24,26,1,"Hickory, North Carolina",Jonathan Vollinger ,Jonathan V.,Lawyer,9
+0,29,Winner,"Athens, Georgia",Josh Murray  ,Josh M.,Former Professional Baseball Player,10
+1,33,Runner-up,"Waukesha, Wisconsin",Nick Viall  ,Nick V.,Software Sales Executive,10
+2,32,9,"Lamont, Iowa",Chris Soules ,Chris S.,Farmer,10
+3,25,8,"Medicine Hat, Alberta",Marcus Grodd ,Marcus G.,Sports Medicine Manager,10
+4,27,7,"Camp Hill, Pennsylvania",Brian Osborne ,Brian O.,Basketball Coach,10
+5,26,7,"Longmeadow, Massachusetts",Dylan Petitt ,Dylan P.,Accountant,10
+6,30,6,"Hanover, Massachusetts",J.J. O'Brien  ,J.J. O.,Pantsapreneur,10
+7,28,6,"Oakley, Kansas",Cody Sattler  ,Cody S.,Personal Trainer,10
+8,30,5,"Portola Valley, California",Andrew Poole ,Andrew P.,Social Media Marketer,10
+9,26,5,"Rialto, California",Marquel Martin  ,Marquel M.,Sponsorship Salesman,10
+10,29,5,"Clinton, New Jersey",Patrick Jagodzinski ,Patrick J.,Advertising Executive,10
+11,30,4,"Denver, Colorado",Tasos Hernandez ,Tasos H.,Wedding Event Coordinator,10
+12,31[1],4,"Citrus Heights, California",Eric Hill    ,Eric H.,Explorer,10
+13,32,3,"Grosse Pointe, Michigan",Bradley Wisk ,Bradley W.,Opera Singer,10
+14,29,3,"Warminster, Pennsylvania",Brett Melnick   ,Brett M.,Hairstylist,10
+15,28,3,"Nahariya, Israel",Ron Worrell ,Ron W.,Beverage Sales Manager,10
+16,30,2,"Hollywood, California",Carl King ,Carl K.,Firefighter,10
+17,29,2,"Defiance, Iowa",Craig Muhlbauer ,Craig M.,Tax Accountant,10
+18,27,2,"Barrington, Illinois",Nick Sutter ,Nick S.,Professional Golfer,10
+19,33,1,"Portland, Oregon",Emil Schaffroth ,Emil S.,Helicopter Pilot,10
+20,35,1,"Sturgeon Bay, Wisconsin",Jason Leep  ,Jason L.,Urgent Care Physician,10
+21,29,1,"Evergreen, Colorado",Josh Bauer ,Josh B.,Telecommunication Marketer,10
+22,29,1,"Guilderland, New York",Mike Campanelli  ,Mike C.,Bartender,10
+23,31,1,"Yorba Linda, California",Rudie Dane ,Rudie D.,Attorney,10
+24,30,1,"Meadow Vista, California",Steven Woolworth ,Steven W.,Snowboard Product Developer,10
+0,28,Winner,"Windsor Locks, Connecticut",Shawn Booth ,Shawn B.,Personal Trainer,11
+1,34,Runner Up,"Waukesha, Wisconsin","Nicholas ""Nick"" Viall  ",Nicholas V.,Software Sales Executive,11
+2,26,8,"Warsaw, Indiana","Benjamin ""Ben"" Higgins  ",Benjamin H.,Software Salesman,11
+3,26,7,"Warwick, Rhode Island",Jared Haibon ,Jared H.,Restaurant Manager,11
+4,28,7,"Glasgow, Kentucky","Joseph ""Joe"" Bailey  ",Joseph B.,Insurance Agent,11
+5,28,7,"Granite Bay, California","Christopher ""Chris"" Strandburg ",Christopher S.,Dentist,11
+6,26,6,"Falls Church, Virginia","Benjamin ""Ben"" Zorn  ",Benjamin Z.,Fitness Coach,11
+7,28,6,"Stilwell, Kansas",Tanner Tolbert ,Tanner T.,Auto Finance Manager,11
+8,32,6,"Dacono, Colorado","John ""JJ"" Lane III ",John I.,Former Investment Banker,11
+9,31,5,"Ventura, California",Joshua Albers ,Joshua A.,Industrial Welder,11
+10,28,5,"Elgin, Illinois",Justin Reich ,Justin R.,Fitness Trainer,11
+11,28,5,"Ramsey, New Jersey",Ian Thomson ,Ian T.,Executive Recruiter,11
+12,30,4,"New York, New York",Corey Stansell (NY) ,Corey S.,Investment Banker,11
+13,33,4,"Sylvan Lake, Michigan",Jonathan Holloway ,Jonathan H.,Automotive Spokesman,11
+14,32,4,"Wellington, Florida",Ryan Beckett ,Ryan B.,Realtor,11
+15,27,3,"Batavia, Illinois",Clint Arlis   ,Clint A.,Architectural Engineer,11
+16,35,3,"St. Louis, Missouri","Anthony ""Tony"" Harris  ",Anthony H.,Healer,11
+17,35,2,"Seven Springs, North Carolina",Cory Shivar (NC)  ,Cory S.,Residential Developer,11
+18,28,2,"Nashville, Tennessee",Daniel Finney ,Daniel F.,Fashion Designer,11
+19,32,2,"Boston, Massachusetts",Kupah James ,Kupah J.,Entrepreneur,11
+20,25,1,"Duluth, Georgia",Bradley Cox ,Bradley C.,International Auto Shipper,11
+21,28,1,"Orlando, Florida",David,David,Real Estate Agent,11
+22,27,1,"Chicago, Illinois","Joshua ""Josh"" Seiter  ",Joshua S.,Law Student/Exotic Dancer,11
+23,31,1,"London, Ontario",Shawn Evans ,Shawn E.,Amateur Sex Coach,11
+24,33,1,"Wauseon, Ohio","Bradley ""Brady"" Toops ",Bradley T.,Singer/Songwriter,11
+25,28,1,"Kansas City, Missouri",Ryan McDill  ,Ryan M.,Junkyard Specialist,11
+0,25,,"Oceanside, California",Alex Wotykiw ,Alex W.,U.S. Marine,12
+1,27,,"Castle Rock, Colorado",Chase McNary ,Chase M.,Medical Sales Rep,12
+2,29,,"Katy, Texas",James Taylor ,James T.,Singer-Songwriter,12
+3,27,,"Chico, California",Jordan Rodgers  ,Jordan R.,Former Pro Quarterback,12
+4,31,,"Burnet, Texas",Luke Pell ,Luke P.,War Veteran,12
+5,27,,"St. Augustine, Florida",Robby Hayes ,Robby H.,Former Competitive Swimmer,12
+6,29,6,"Waverly, Iowa",Derek Peth ,Derek P.,Commercial Banker,12
+7,31,6,"Monterey, California",Wells Adams   ,Wells A.,Radio DJ,12
+8,33,5,"Nashville, Tennessee",Evan Bass  ,Evan B.,Erectile Dysfunction Specialist,12
+9,27,5,"San Francisco, California",Grant Kemp ,Grant K.,Firefighter,12
+10,28,5,"Delray Beach, Florida","Vincent ""Vinny"" Ventiera ",Vincent V.,Barber,12
+11,31,4,"Vancouver, British Columbia",Daniel Maguire ,Daniel M.,Canadian,12
+12,34,4,"Franklin, Tennessee",James Fuertes ,James F.,Boxing Club Owner,12
+13,28,4,"Jenks, Oklahoma",Chad Johnson  ,Chad J.,Luxury Real Estate Agent,12
+14,27,3,"Santa Monica, California",Ali Zahiri ,Ali Z.,Bartender,12
+15,26,3,"Los Angeles, California",Christian Bishop  ,Christian B.,Telecom Consultant,12
+16,33,3,"Carthage, Illinois",Nick Benvenutti  ,Nick B.,Electrical Engineer,12
+17,28,2,"Marysville, Washington",Brandon Howell ,Brandon H.,Hipster,12
+18,27,2,"Phoenix, Arizona",James Spadafore ,James S.,Bachelor Superfan,12
+19,26,2,"Jersey City, New Jersey",Will Haduch ,Will H.,Civil Engineer,12
+20,27,1,"Chicago, Illinois",Coley Knust ,Coley K.,Real Estate Consultant,12
+21,26,1,"Playa Vista, California",Jake Patton ,Jake P.,Landscape Architect,12
+22,29,1,"Vancouver, British Columbia",Jonathan Hamilton ,Jonathan H.,Technical Sales Rep,12
+23,26,1,"San Francisco, California",Nick Sharp ,Nick S.,Software Salesman,12
+24,26,1,"Rockdale, Illinois",Peter Medina ,Peter M.,Staffing Agency Manager,12
+25,28,1,"Hubbard, Ohio",Sal DeJulio ,Sal D.,Operations Manager,12
