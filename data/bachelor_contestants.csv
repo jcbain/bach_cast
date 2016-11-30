@@ -1,319 +1,1 @@
-index,age,elimination,first_name,hometown,name,name_abbreviation,occupation,season
-0,24,Winner,Jennifer,"Pembroke Pines, Florida",Jennifer Wilson,Jennifer W.,Teacher,9
-1,23,7,Sadie,"Carlsbad, California",Sadie Murray,Sadie M.,Publicist,9
-2,25,6,Lisa,"Portland, Oregon",Lisa Blank,Lisa B.,Marketing manager,9
-3,24,5,Agnese,"Venice, Italy",Agnese Polliza,Agnese P.,Student,9
-4,23,4,Jeanette,"Bloomingdale, Illinois",Jeanette Pawula,Jeanette P.,Teacher,9
-5,22,4,Desiree,"Salt Lake City, Utah",Desiree Valentin,Desiree V.,Realtor,9
-6,27,3,Jami,"Galveston, Texas",Jami Matzke,Jami M.,Event planner,9
-7,28,3,Gina,"Chicago, Illinois",Gina Clark,Gina C.,Ultrasound technician,9
-8,23,3,Erica,"Houston, Texas",Erica Rose,Erica R.,Socialite,9
-9,30,2,Sarah,"Nelson, British Columbia",Sarah Schnare,Sarah S.,Journalist,9
-10,27,2,Kim,"Newport Beach, California",Kim Jackson,Kim J.,Interior designer,9
-11,30,2,Ellen,"New Haven, Connecticut",Ellen DeMaio,Ellen D.,Realtor,9
-12,24,1,Tara,"St. Augustine, Florida",Tara Durr,Tara D.,Realtor,9
-13,27,1,Rosella,"Chicago, Illinois",Rosella Fratto,Rosella F.,Make-up artist,9
-14,29,1,Rita,"Richmond, VA",Rita Ghazal,Rita G.,Policy advisor,9
-15,30,1,Renee,"Baltimore, MD",Renee Snell,Renee S.,Broadcast marketer,9
-16,27,1,Meri,"Biloxi, MS",Meri Barr,Meri B.,Attorney,9
-17,29,1,Laura,"San Diego, CA",Laura Morgan,Laura M.,Dolphin trainer,9
-18,25,1,Jessica,"Charlotte, NC",Jessica Horner,Jessica H.,Assistant buyer,9
-19,34,1,Heather,"Aliquippa, PA",Heather Sneed,Heather S.,Registered nurse,9
-20,27,1,Elyse,"New York, NY",Elyse Hammer,Elyse H.,Physician,9
-21,,1,Cosetta,Italy,Cosetta Blanca,Cosetta B.,Dancer,9
-22,22,1,Claudia,"Boca Raton, FL",Claudia Gismondi,Claudia G.,Restaurateur,9
-23,25,1,Carissa,"Cattaraugus, NY",Carissa Ilburg,Carissa I.,Attorney,9
-24,28,1,Brit,"Columbus, OH",Brit Keeder,Brit K.,Beer chemist,9
-25,28,1,Andrea,"Cincinnati, OH",Andrea Shirley,Andrea S.,Hotel concierge,9
-26,23,1,April,"Chicago, IL",April Jacobs,April J.,Model,9
-0,26,Winner,Tessa,"San Francisco, California",Tessa Horst,Tessa H.,Social Worker,10
-1,28,8,Bevin,"Palo Alto, California",Bevin Nicole Powers,Bevin P.,Assistant,10
-2,25,7,Danielle,"Bethel, Connecticut",Danielle Imwalle,Danielle I.,Graphic Designer,10
-3,23,6,Amber,"Sugar Land, Texas",Amber Alchalabi,Amber A.,Teacher,10
-4,23,5,Stephanie,"Overland Park, Kansas",Stephanie Wilhite,Stephanie W.,Project Manager,10
-5,26,5,Tina,"Los Angeles, California",Tina Wu,Tina W.,Medical student,10
-6,24,4,Kate,"Ravenel, South Carolina",Kate Brockhouse,Kate B.,Boutique owner,10
-7,26,4,Nicole,"Charleston, SC",Nicole Clary,Nicole C.,Sales Manager,10
-8,27,4,Stephanie,"Folly Beach, SC",Stephanie Tipper,Stephanie T.,Organ donor coordinator,10
-9,26,3,Amanda,"Dallas, TX",Amanda Hackney,Amanda H.,Financial analyst,10
-10,24,3,Erin,"Logansport, LA",Erin Parker,Erin P.,Financial analyst,10
-11,24,3,Peyton,"La Vergne, Tennessee",Peyton Wright,Peyton W.,Sorority recruiter,10
-12,26,2,Alexis,"Southlake, TX",Alexis Young,Alexis Y.,Attorney,10
-13,23,2,Susan,"The Woodlands, TX",Susan Anderson,Susan A.,Boutique manager,10
-14,28,2,Tiffany,"Boston, MA",Tiffany Warren,Tiffany W.,Medical equipment sales rep,10
-15,29,1,Blakeney,"Birmingham, AL",Blakeney Rowe,Blakeney R.,Radio sales,10
-16,23,1,Candace,"Hilton Head Island, SC",Candace DeCost,Candace D.,Waitress,10
-17,23,1,Catherine,"Lake Forest, IL",Catherine Warren,Catherine W.,Former Miss Illinois,10
-18,26,1,Danielle,"Bronx, NY",Danielle Vallis,Danielle V.,Attorney,10
-19,23,1,Jackie,"Minneapolis, MN",Jackie Topelli,Jackie T.,Executive coordinator,10
-20,27,1,Jeanette,"Tampa, FL",Jeanette Alvarez,Jeanette A.,Health care manager,10
-21,32,1,Jessica,"New York, NY",Jessica Devallo,Jessica D.,Hedge fund analyst,10
-22,33,1,Linda,"Cuyahoga Falls, OH",Linda Malek,Linda M.,Attorney,10
-23,22,1,Lindsay,"Lawrence, KS",Lindsay Smith,Lindsay S.,Student,10
-24,27,1,Tiffany,"St. Louis Park, MN",Tiffany Forester,Tiffany F.,Real estate sales/development,10
-0,25,8,Deanna,"Newnan, Georgia",Deanna Pappas ,Deanna P.,Realtor,11
-1,27,8,Jenni,"Wichita, Kansas",Jenni Croft,Jenni C.,Phoenix Suns Cheerleader,11
-2,27,7,Bettina,"Washington, D.C.",Bettina Bell ,Bettina B.,Realtor,11
-3,23,6,Sheena,"Walnut Creek, California",Sheena Stewart ,Sheena S.,Internet marketing executive,11
-4,27,5,Hillary,"Philadelphia, Pennsylvania",Hillary Reisinger ,Hillary R.,Registered nurse,11
-5,29,5,Kristy,"Gurnee, Illinois",Kristy Katzmann ,Kristy K.,Acupuncturist,11
-6,26,4,Estefania,"Atlanta, Georgia","Estefania ""Stephy"" Kootz",Estefania K.,Executive assistant,11
-7,24,4,Jade,"Nashville, Tennessee",Jade Beazley ,Jade B.,Boutique sales worker,11
-8,26,4,McCarten,"Lemon Grove, California",McCarten Delaney  ,McCarten D.,Account manager,11
-9,25,3,Lindsey,"Livonia, Michigan",Lindsey Hawkins,Lindsey H.,Model,11
-10,23,3,Sarah,"O'Fallon, Illinois",Sarah Newlon,Sarah N.,Bar manager,11
-11,25,3,Solisa,"Georgetown, Texas",Solisa Shoop ,Solisa S.,Esthetician,11
-12,30,2,Michele,"South Brunswick, New Jersey",Michele Leavy ,Michele L.,Realtor,11
-13,24,2,Mallory,"Honolulu, Hawaii",Mallory Simons,Mallory S.,Nanny,11
-14,25,2,Erin,"Tampa, Florida",Erin Gardner,Erin G.,Publishing sales executive,11
-15,27,1,Jessica,"Lady Lake, Florida",Jessica Kiss,Jessica K.,News anchor,11
-16,24,1,Juli,"Chicago, Illinois",Juli Gilliam,Juli G.,Law student,11
-17,31,1,Kim,"Woodbridge, Connecticut",Kim Orville,Kim O.,Realtor,11
-18,33,1,Lori,"Annapolis, Maryland",Lori Langley ,Lori L.,Biology teacher,11
-19,28,1,Melissa,"Westchester, New York",Melissa Buschel ,Melissa B.,Event planner,11
-20,24,1,Morgan,"Tempe, Arizona",Morgan Becker,Morgan B.,Graduate student,11
-21,25,1,Natalie,"Duncanville, Texas",Natalie Velasco,Natalie V.,Law student,11
-22,31,1,Regina,"San Diego, California",Regina Doringa,Regina D.,Account representative,11
-23,31,1,Tauni,"St. Louis Park, Minnesota",Tauni Nessler  ,Tauni N.,Emergency room nurse,11
-24,35,1,Susan,"St. Charles, Illinois",Susan Stein,Susan S.,Project analyst,11
-0,22,Winner,Shayne,"Malibu, California",Shayne Lamas ,Shayne L.,Actress,12
-1,25,8,Chelsea,"Durango, Colorado",Chelsea Wanstrath ,Chelsea W.,Pharmaceutical sales rep.,12
-2,27,7,Amanda,"Niceville, Florida",Amanda Rantuccio ,Amanda R.,Account Executive,12
-3,26,6,Noelle,"Loveland, Colorado",Noelle Drake ,Noelle D.,Photographer,12
-4,27,5,Marshana,"Brooklyn, New York",Marshana Ritchie ,Marshana R.,Fashion designer,12
-5,22,5,Robin,"Holland, Michigan",Robin Canfield ,Robin C.,Advertising coordinator,12
-6,22,4,Ashlee,"Jacksonville Beach, Florida",Ashlee Williss ,Ashlee W.,Singer-songwriter,12
-7,25,4,Kelly,"Hollywood, California",Kelly Duncan,Kelly D.,Medical sales rep.,12
-8,24,4,Holly,"Suffield, Ohio",Holly Durst  ,Holly D.,Children's book author,12
-9,22,3,Amy,"Stockton, California",Amy,Amy,Nanny,12
-10,33,3,Erin,"Venice, California",Erin Storm,Erin S.,Hot-dog vendor,12
-11,33,3,Kristine,"Dillsburg, Pennsylvania",Kristine Heffelfinger ,Kristine H.,Personal trainer,12
-12,28,2,Michelle,"Syracuse, New York",Michelle P.,Michelle P.,Administrative assistant,12
-13,25,2,Carri,"Oklahoma City, Oklahoma",Carri Perrier  ,Carri P.,Church marketing rep.,12
-14,25,2,Erin,"Seattle, Washington",Erin Harper  ,Erin H.,Event planner,12
-15,24,1,Alyssa,"Boise, Idaho",Alyssa,Alyssa,Biology student,12
-16,26,1,Amanda,"LaFollette, Tennessee",Amanda Petterman ,Amanda P.,Law student,12
-17,30,1,Denise,"Washington, D.C",Denise,Denise,Attorney and former White House aide,12
-18,24,1,Devon,"Austin, Texas",Devon,Devon,Makeup artist,12
-19,23,1,Lesley,"Tampa, Florida",Lesley Geyer ,Lesley G.,Youth minister,12
-20,33,1,Michele,"Laguna Niguel, California",Michele R.,Michele R.,Interior designer,12
-21,30,1,Rebecca,"Alamo, California",Rebecca,Rebecca,Attorney,12
-22,26,1,Stacey,"Chicago, Illinois",Stacey Elza ,Stacey E.,Graduate student,12
-23,23,1,Tamara,"Beverly Hills, California",Tamara,Tamara,Cocktail waitress,12
-24,33,1,Tiffany,"San Francisco, California",Tiffany,Tiffany,Real estate marketing rep.,12
-0,25,Winner,Melissa,"Dallas, Texas",Melissa Rycroft ,Melissa R.,Sales Representative,13
-1,24,Runner-up,Molly,"Brookfield, Wisconsin",Molly Malaney ,Molly M.,Department Store Buyer,13
-2,29,7,Jillian,"Peace River, Alberta",Jillian Harris,Jillian H.,Interior Designer,13
-3,24,6,Naomi,"Carlsbad, California",Naomi Rose Crespo ,Naomi C.,Flight Attendant,13
-4,34,5,Stephanie,"Huntsville, Alabama",Stephanie Hogan ,Stephanie H.,Single Mother & Medical Marketing Rep.,13
-5,27,4,Lauren,"Marlboro, New Jersey",Lauren Wanger,Lauren W.,Teacher,13
-6,25,4,Megan,"Sewickley, Pennsylvania",Megan Parris ,Megan P.,Single Mother and Lacrosse Coach,13
-7,29,4,Shannon,"Marshall, Missouri",Shannon Bair ,Shannon B.,Dental Hygienist,13
-8,29,4,Nicole,"Blue Island, Illinois","Nicole ""Nikki"" Kaapke ",Nicole K.,Administrative Assistant,13
-9,25,3,Erica,"Monroe, Connecticut",Erica DeSimone,Erica D.,Account Executive,13
-10,27,3,Kari,"Lee's Summit, Missouri",Kari Fajen ,Kari F.,Account Executive,13
-11,27,3,Natalie,"Morton, Illinois",Natalie Getz ,Natalie G.,Human Resources Recruiter,13
-12,27,2,Raquel,"Recife, Pernambuco, Brazil",Raquel Medeiros ,Raquel M.,Medical Student,13
-13,32,2,Sharon,"Batavia, New York",Sharon Staebell ,Sharon S.,Teacher,13
-14,28,2,Lisa,"Boise, Idaho",Lisa Gonzalez ,Lisa G.,Public Relations Associate,13
-15,24,1,Ann,"Phoenix, Arizona",Ann Lueders,Ann L.,Flight Attendant,13
-16,26,1,Dominique,"Mt. Carmel, Pennsylvania",Dominique Carta,Dominique C.,Medical Sales Rep.,13
-17,23,1,Emily,"Seattle, Washington",Emily,Emily,Casino Marketing Rep.,13
-18,26,1,Jackie,"Springfield, Massachusetts",Jackie Hickey,Jackie H.,Wedding Coordinator,13
-19,26,1,Julie,"Columbus, Ohio",Julie Dermotta,Julie D.,Teacher,13
-20,25,1,Nicole,"Calgary, Alberta",Nicole Mah,Nicole M.,Menswear Buyer,13
-21,36,1,Renee,"Southfield, Michigan",Renee Simlak,Renee S.,Jewelry Designer,13
-22,23,1,Shelby,"Stockton, California",Shelby,Shelby,Account Executive,13
-23,24,1,Stacia,"Orem, Utah",Stacia Mann,Stacia M.,Single Mother & Charity Accountant,13
-24,28,1,Treasure,"Salt Lake City, Utah",Treasure Morgan,Treasure M.,Single Mother and Nurse Practitioner,13
-0,23,Winner,Vienna,"Geneva, Florida",Vienna Girardi  ,Vienna G.,Marketing Representative,14
-1,25,Runner-up,Tenley,"Newberg, Oregon",Tenley Molzahn  ,Tenley M.,College Admissions,14
-2,26,7,Gia,"New York, New York",Gia Allemand  ,Gia A.,Swimsuit Model,14
-3,25,6,Ali,"Williamstown, Massachusetts",Ali Fedotowsky  ,Ali F.,Advertising Account Manager,14
-4,23,5,Corrie,"Kissimmee, Florida",Corrie Adamson ,Corrie A.,Wardrobe Consultant,14
-5,25,4,Ashleigh,"North Potomac, Maryland",Ashleigh Hunt ,Ashleigh H.,Account Manager,14
-6,25,4,Jessie,"Oakville, Ontario",Jessie Sulidis ,Jessie S.,Cosmetic Sales Manager,14
-7,25,4,Kathryn,"Lexington, Kentucky",Kathryn Sherlock ,Kathryn S.,Corporate Flight Attendant,14
-8,30,4,Ella,"La Follette, Tennessee",Ella Nolan  ,Ella N.,Hair Stylist,14
-9,29,3,Elizabeth,"Imperial, Nebraska",Elizabeth Kitt (NE) ,Elizabeth K.,Nanny,14
-10,32,3,Valishia,"San Bernardino, California",Valishia Savage ,Valishia S.,Homemaker,14
-11,26,3,Michelle,"Anaheim, California",Michelle Kujawa ,Michelle K.,Office Manager,14
-12,29,2,Ashley,"Pittsburgh, Pennsylvania",Ashley Elmore ,Ashley E.,Teacher,14
-13,25,2,Christina,"San Diego, California",Christina McCasland ,Christina M.,Restaurant Manager,14
-14,28,2,Rozlyn,"Richmond, Virginia",Rozlyn Papa ,Rozlyn P.,Model/Make-Up Artist,14
-15,25,1,Alexa,"Galloway, Ohio",Alexa (Lex) McAllister ,Alexa M.,Entrepreneur,14
-16,24,1,Caitlyn,"Winfield, Illinois",Caitlyn McCabe ,Caitlyn M.,Spokesmodel,14
-17,29,1,Channy,"Santa Rosa, California",Channy Choch ,Channy C.,Mortgage Loan Officer,14
-18,29,1,Elizabeth,"Union, Kentucky",Elizabeth Kreft (D.C.) ,Elizabeth (.,"Captain, Air National Guard",14
-19,23,1,Emily,"West Chester, Ohio",Emily Harkins ,Emily H.,Fitness Model,14
-20,24,1,Kimberly,"Norman, Oklahoma",Kimberly Sullivan ,Kimberly S.,NBA Dancer,14
-21,25,1,Kirsten,"Aurora, Colorado",Kirsten Pittman ,Kirsten P.,Waitress,14
-22,25,1,Sheila,"Scottsdale, Arizona",Sheila Marie Lidner ,Sheila L.,Commercial Pilot,14
-23,24,1,Stephanie,"Morris, Illinois",Stephanie Mueller ,Stephanie M.,Dance Teacher,14
-24,31,1,Tiana,"Calgary, Alberta",Tiana Kruzel ,Tiana K.,Medical Technician,14
-0,25,Winner,Emily,"Morgantown, West Virginia",Emily Maynard ,Emily M.,Children's Hospital Event Planner,15
-1,28,Runner-up,Chantal,"Mercer Island, Washington",Chantal O'Brien ,Chantal O.,Executive Assistant,15
-2,26,9,Ashley,"Madawaska, Maine",Ashley Hebert ,Ashley H.,Dental Student,15
-3,25,8,Shawntel,"Chico, California",Shawntel Newton ,Shawntel N.,Funeral Director,15
-4,30,7,Michelle,"Salt Lake City, Utah",Michelle Money,Michelle M.,Hair stylist,15
-5,25,7,Britt,"Woodinville, Washington",Britt Billmaier ,Britt B.,Food writer,15
-6,26,6,Jackie,"Newport, Rhode Island",Jackie Gordon ,Jackie G.,Artist,15
-7,24,6,Alli,"Columbus, Ohio",Alli Travis ,Alli T.,Apparel merchant,15
-8,24,5,Lisa,"Ottawa, Kansas",Lisa Morrisey ,Lisa M.,Marketing Coordinator,15
-9,26,5,Marissa,"Mesa, Arizona",Marissa May ,Marissa M.,Sports Publicist,15
-10,26,5,Ashley,"Ellerbe, North Carolina",Ashley Spivey ,Ashley S.,Nanny,15
-11,25,4,Lindsay,"Plano, Texas",Lindsay Hill ,Lindsay H.,First grade teacher,15
-12,30,4,Meghan,"Princeton, New Jersey",Meghan Merritt,Meghan M.,Fashion Marketer,15
-13,26,4,Stacey,"Quincy, Massachusetts",Stacey Quirpel,Stacey Q.,Bartender,15
-14,27,3,Kimberly,"Orlando, Florida",Kimberly Coon ,Kimberly C.,Marketing Coordinator,15
-15,27,3,Sarah,"Denver, Colorado",Sarah Powell ,Sarah P.,Real Estate Broker,15
-16,25,3,Madison,"Vail, Colorado",Madison Garton ,Madison G.,Model,15
-17,28,2,Keltie,"Sherwood Park, Alberta",Keltie Colleen ,Keltie C.,Radio City Rockette,15
-18,32,2,Melissa,"Westport, Connecticut",Melissa Schreiber ,Melissa S.,Waitress,15
-19,29,2,Raichel,"Fullerton, California",Raichel Goodyear ,Raichel G.,Manscaper,15
-20,25,1,Britnee,"Holland, Pennsylvania",Britnee,Britnee,Paralegal,15
-21,30,1,Cristy,"Davie, Florida",Cristy Caserta ,Cristy C.,Attorney,15
-22,26,1,Jessica,"Seattle, Washington","Jessica ""J"" Adams ",Jessica A.,Operations Manager,15
-23,28,1,Jill,"Frisco, Texas",Jill Ruskowski ,Jill R.,Sales director,15
-24,27,1,Lacey,"Tampa, Florida",Lacey Garbelman ,Lacey G.,Insurance agent,15
-25,26,1,Lauren,"Culpeper, Virginia",Lauren Moore ,Lauren M.,High School Teacher,15
-26,27,1,Lisa,"Dix Hills, New York",Lisa P.,Lisa P.,Sales Consultant,15
-27,30,1,Rebecca,"Mission Viejo, California",Rebecca,Rebecca,Esthetician,15
-28,28,1,Renee,"Palos Hills, Illinois",Renee Halpin,Renee H.,Nanny,15
-29,25,1,Sarah,"Saginaw, Michigan",Sarah Ledtke ,Sarah L.,Musical Theatre Performer,15
-0,28,Winner,Courtney,"Scottsdale, Arizona",Courtney Robertson  ,Courtney R.,Model,16
-1,27,Runner-up,Lindzi,"Newcastle, Washington ",Lindzi Cox ,Lindzi C.,Business development manager,16
-2,26,9,Nicki,"Hurst, Texas",Nicki Sterling ,Nicki S.,Dental hygienist,16
-3,24,8,Kacie,"Clarksville, Tennessee ",Kacie Boguskie ,Kacie B.,Administrative assistant,16
-4,27,7,Emily,"Chapel Hill, North Carolina",Emily O'Brien ,Emily O.,PhD Student,16
-5,27,7,Rachel,"Southampton, Massachusetts",Rachel Truehart ,Rachel T.,Fashion sales representative,16
-6,25,6,Jamie,"Dryden, New York",Jamie Otis ,Jamie O.,Registered nurse,16
-7,26,6,Casey,"Leawood, Kansas",Casey Shteamer ,Casey S.,Trading clerk,16
-8,33,6,Blakeley,"Rutherfordton, North Carolina",Blakeley Jones ,Blakeley J.,VIP cocktail waitress,16
-9,28,5,Jennifer,"Cache, Oklahoma",Jennifer Fritsch ,Jennifer F.,Accountant,16
-10,24,5,Elyse,"Chicago, Illinois",Elyse Myers ,Elyse M.,Personal trainer,16
-11,33,4,Monica,"Yuba, California",Monica Spannbauer ,Monica S.,Dental consultant,16
-12,26,4,Samantha,"Pittsburgh, Pennsylvania",Samantha Levey  ,Samantha L.,Advertising account manager,16
-13,27,3,Jaclyn,"Newton, Massachusetts",Jaclyn Swartz ,Jaclyn S.,Advertising account manager,16
-14,23,3,Erika,"Charlottesville, Virginia",Erika Uhlig ,Erika U.,Law student,16
-15,26,3,Brittney,"Colorado Springs, Colorado",Brittney Schreiner ,Brittney S.,Medical sales representative,16
-16,28,2,Shawn,"Cincinnati, Ohio",Shawn Reynolds ,Shawn R.,Financial advisor,16
-17,27,2,Jenna,"Loveland, Ohio",Jenna Burke  ,Jenna B.,Blogger,16
-18,23,1,Amber,"Port Coquitlam, British Columbia",Amber Bacon ,Amber B.,Labor and delivery nurse,16
-19,28,1,Amber,"Waverly, Nebraska",Amber Tierney  ,Amber T.,Critical care nurse,16
-20,25,1,Anna,"Detroit, Michigan",Anna Snowball  ,Anna S.,Student,16
-21,30,1,Dianna,"San Gabriel, California",Dianna Martinez ,Dianna M.,Nonprofit director,16
-22,34,1,Holly,"Salyersville, Kentucky",Holly Johnson ,Holly J.,Pharmaceutical sales representative,16
-23,29,1,Lyndsie,"London, England",Lyndsie James ,Lyndsie J.,Internet entrepreneur,16
-24,35,1,Shira,"Massapequa Park, New York",Shira Astrof ,Shira A.,Actress,16
-0,26,Winner,Catherine,"Seattle, Washington",Catherine Giudici ,Catherine G.,Graphic Designer,17
-1,24,Runner-up,Lindsay,"Fort Bragg, North Carolina",Lindsay Yenter ,Lindsay Y.,Substitute Teacher,17
-2,32,9,AshLee,"Houston, Texas",AshLee Frazier ,AshLee F.,Personal Organizer,17
-3,26,8,Desiree,"Northglenn, Colorado",Desiree Hartsock ,Desiree H.,Bridal Stylist,17
-4,24,7,Lesley,"Fort Smith, Arkansas",Lesley Murphy ,Lesley M.,Political Consultant,17
-5,24,7,Tierra,"Las Vegas, Nevada",Tierra LiCausi ,Tierra L.,Leasing Consultant,17
-6,24,6,Daniella,"Belmont, California",Daniella McBride ,Daniella M.,Commercial Casting Associate,17
-7,29,6,Selma,"Borrego Springs, California",Selma Alameri ,Selma A.,Real Estate Dealer,17
-8,26,6,Sarah,"Evergreen, Colorado",Sarah Herron  ,Sarah H.,Advertising Executive,17
-9,24,5,Robyn,"Topeka, Kansas",Robyn Howard  ,Robyn H.,Oil Field Account Manager,17
-10,25,5,Jackie,"Ormond Beach, Florida",Jackie Parr ,Jackie P.,Cosmetics Consultant,17
-11,26,4,Amanda,"Bakersfield, California",Amanda Meyer ,Amanda M.,Fit Model,17
-12,28,4,Leslie,"Ruskin, Florida",Leslie Hughes ,Leslie H.,Poker Dealer,17
-13,25,3,Kristy,"Darien, Wisconsin",Kristy Kaminski ,Kristy K.,Model,17
-14,30,3,Taryn,"Troutdale, Oregon",Taryn Renee Daniels ,Taryn D.,Health Club Manager,17
-15,25,3,Kacie,See below,Kacie Boguskie ,Kacie B.,See below,17
-16,25,2,Brooke,"Pittsburgh, Pennsylvania",Brooke Burchette ,Brooke B.,Community Organizer,17
-17,31,2,Diana,"Sandy, Utah",Diana Weeks Willardson ,Diana W.,Salon Owner,17
-18,27,2,Katie,"Woodstock, Illinois",Katie Levans ,Katie L.,Yoga Instructor,17
-19,25,1,Ashley,"Garner, North Carolina",Ashley Harper ,Ashley H.,Fashion Model,17
-20,28,1,Ashley,"Macomb, Michigan",Ashley Palenkas ,Ashley P.,Hair Stylist,17
-21,28,1,Kelly,"Chattanooga, Tennessee",Kelly Dutton ,Kelly D.,Cruise Ship Entertainer,17
-22,29,1,Keriann,"Agoura Hills, California",Keriann Miranda ,Keriann M.,Entrepreneur,17
-23,24,1,Lacey,"Valencia, California",Lacey Latka ,Lacey L.,Graduate Student,17
-24,27,1,Lauren,"Cranston, Rhode Island",Lauren Marchetti ,Lauren M.,Journalist,17
-25,25,1,Paige,"New York City, New York",Paige Vigil,Paige V.,Jumbotron Operator,17
-0,26,Winner,Nikki,"Kearney, Missouri",Nikki Ferrell  ,Nikki F.,Pediatric Nurse,18
-1,32,Runner-up,Clare,"Sacramento, California",Clare Crawley ,Clare C.,Hairstylist,18
-2,26,9,Andi,"Buckhead, Georgia",Andi Dorfman ,Andi D.,Assistant District Attorney,18
-3,32,8,Renee,"Martha's Vineyard, Massachusetts ",Renee Oteri ,Renee O.,Real Estate Agent,18
-4,24,7,Chelsie,"Lexington, Ohio",Chelsie Webster ,Chelsie W.,Science Educator,18
-5,29,7,Sharleen,"Ottawa, Ontario",Sharleen Joynt  ,Sharleen J.,Opera Singer,18
-6,29,6,Kat,"Iowa City, Iowa",Kat Hurd ,Kat H.,Medical Sales Representative/NBA Dancer,18
-7,22 ,6,Cassandra,"Shelby Charter Township, Michigan",Cassandra Ferguson ,Cassandra F.,Former NBA Dancer,18
-8,26,5,Alli,"Orland Park, Illinois",Alli Restko ,Alli R.,Nanny,18
-9,25,5,Danielle,"Litchfield, Illinois",Danielle Ronco ,Danielle R.,Psychiatric Nurse,18
-10,27,5,Kelly,"Conyers, Georgia",Kelly Travis  ,Kelly T.,Dog Lover,18
-11,27,4,Elise,"Forty Fort, Pennsylvania",Elise Mosca ,Elise M.,First Grade Teacher,18
-12,26,4,Lauren,"Austin, Texas",Lauren Solomon ,Lauren S.,Music Composer,18
-13,24,3,Christy,"Aurora, Illinois",Christy Hansen ,Christy H.,Marketing Manager,18
-14,25 ,3,Lucy,"Santa Barbara, California","Lucy !Lucinda ""Lucy"" Aragon ",Lucy A.,Free Spirit,18
-15,27,2,Amy,"Clermont, Florida",Amy Long ,Amy L.,Local News Reporter,18
-16,27,2,Chantel,"Miami, Florida",Chantel Forrest ,Chantel F.,Account Manager,18
-17,24,2,Victoria,"Porto Alegre, Brazil",Victoria Lima ,Victoria L.,Legal Assistant,18
-18,24,1,Alexis,"Tampa, Florida",Alexis Morgado  ,Alexis M.,Communications Director/NHL Ice Girl,18
-19,31,1,Amy,"Apopka, Florida",Amy Jokinen ,Amy J.,Massage Therapist,18
-20,25,1,Ashley,"Roanoke, Texas",Ashley Poe ,Ashley P.,Grade School Teacher,18
-21,23,1,Christine,"Miami, Florida",Christine Llano  ,Christine L.,Police Support Specialist,18
-22,23,1,Kylie,"Rockford, Illinois",Kylie Lewis  ,Kylie L.,Interior Designer,18
-23,25,1,Lacy,"Antelope Acres, California",Lacy Faddoul  ,Lacy F.,Nursing Home Owner,18
-24,25,1,Lauren,"Edmond, Oklahoma",Lauren Higginson ,Lauren H.,Mineral Coordinator,18
-25,25,1,Maggie,"Wagener, South Carolina",Maggie Gantt  ,Maggie G.,Personal Banker,18
-26,26,1,Valerie,"Sutter, California",Valerie Eredia  ,Valerie E.,Personal Trainer,18
-0,29,Winner,Whitney,"Louisville, Kentucky ",Whitney Bischoff   ,Whitney B.,Fertility Nurse,19
-1,25,Runner-up,Becca,"Shreveport, Louisiana ",Becca Tilley  ,Becca T.,Chiropractic Assistant,19
-2,29,9,Kaitlyn,"Leduc, Alberta ",Kaitlyn Bristowe ,Kaitlyn B.,Dance Instructor,19
-3,28,8,Jade,"Gering, Nebraska ",Jade Roper   ,Jade R.,Cosmetics Developer,19
-4,29,7,Carly,"Arlington, Texas",Carly Waddell ,Carly W.,Cruise Ship Singer,19
-5,27,7,Britt,"Wolcott Mills, Michigan",Britt Nilsson  ,Britt N.,Waitress,19
-6,24,6,Megan,"Nashville, Tennessee",Megan Bell ,Megan B.,Make-Up Artist,19
-7,28,6,Kelsey,"Hudsonville, Michigan ",Kelsey Poe  ,Kelsey P.,Guidance Counselor,19
-8,26,6,Ashley,"Great Falls, Virginia ",Ashley Iaconetti  ,Ashley I.,Nanny/Freelance Journalist,19
-9,21,5,Mackenzie,"Maple Valley, Washington",Mackenzie Deonigi ,Mackenzie D.,Dental Assistant,19
-10,27,5,Samantha,"Indianapolis, Indiana ",Samantha Steffen  ,Samantha S.,Fashion Designer,19
-11,24,4,Ashley,"Vinings, Georgia",Ashley Salter ,Ashley S.,Hair Stylist,19
-12,30,4,Juelia,"Beaverton, Oregon",Juelia Kinney  ,Juelia K.,Esthetician,19
-13,26,4,Nikki,"Hasbrouck Heights, New Jersey",Nikki Delventhal ,Nikki D.,Former NFL Cheerleader,19
-14,25,4,Jillian,"Howland, Ohio ",Jillian Anderson  ,Jillian A.,News Producer,19
-15,29,3,Amber,"Kankakee, Illinois ",Amber James  ,Amber J.,Bartender,19
-16,29,3,Tracy,"Wellington, Florida",Tracy Darakis ,Tracy D.,Fourth Grade Teacher,19
-17,33,3,Trina,"Algonquin, Illinois ",Trina Scherenberg  ,Trina S.,Special Education Teacher,19
-18,24,2,Alissa,"Hamilton, New Jersey",Alissa Giambrone ,Alissa G.,Flight Attendant,19
-19,24,2,Jordan,"Windsor, Colorado",Jordan Branch ,Jordan B.,Student,19
-20,28,2,Kimberly,"Wantagh, New York ",Kimberly Sherbach ,Kimberly S.,Yoga Instructor,19
-21,30,2,Tandra,"Sandy, Utah",Tandra Steiner ,Tandra S.,Executive Assistant,19
-22,26,2,Tara,"Fort Lauderdale, Florida",Tara Eddings  ,Tara E.,Sport Fishing Enthusiast,19
-23,24,1,Amanda,"Lake in the Hills, Illinois",Amanda Goerlitz ,Amanda G.,Ballet Teacher,19
-24,25,1,Bo,"Carpinteria, California",Bo Stanley ,Bo S.,Plus-Size Model,19
-25,26,1,Brittany,"Temecula, California",Brittany Fetkin ,Brittany F.,WWE Diva-in-Training,19
-26,25,1,Kara,"Brownsville, Kentucky",Kara Wilson ,Kara W.,High School Soccer Coach,19
-27,25,1,Michelle,"Provo, Utah",Michelle Davis ,Michelle D.,Wedding Cake Baker,19
-28,31,1,Nicole,"Scottsdale, Arizona",Nicole Meacham  ,Nicole M.,Real Estate Agent,19
-29,28,1,Reegan,"Manhattan Beach, California",Reegan Cornwell ,Reegan C.,Cadaver Tissue Saleswoman,19
-0,25,Winner,Lauren,"West Linn, Oregon",Lauren Bushnell   ,Lauren B.,Flight Attendant,20
-1,24,Runner-up,Joelle,"Dallas, Texas","Joelle ""JoJo"" Fletcher  ",Joelle F.,Real Estate Developer,20
-2,24,9,Caila,"Hudson, Ohio",Caila Quinn  ,Caila Q.,Software Sales Representative,20
-3,25,8,Amanda,"Rancho Santa Margarita, California",Amanda Stanton  ,Amanda S.,Esthetician,20
-4,26,7,Becca,"Shreveport, Louisiana",Becca Tilley ,Becca T.,Chiropractic Assistant,20
-5,23,7,Emily,"Las Vegas, Nevada",Emily Ferguson   ,Emily F.,Twin,20
-6,25,6,Lauren,"Dexter, Michigan",Lauren Himle ,Lauren H.,Kindergarten Teacher,20
-7,23,6,Olivia,"Bristol, Virginia",Olivia Caridi  ,Olivia C.,Former News Anchor,20
-8,25,6,Leah,"Greenwood Village, Colorado",Leah Block ,Leah B.,Event Planner,20
-9,25,5,Jennifer,"Lauderdale Lakes, Florida",Jennifer Saviano ,Jennifer S.,Small Business Owner,20
-10,24,5,Jubilee,"Fort Lauderdale, Florida",Jubilee Sharpe  ,Jubilee S.,War Veteran,20
-11,30,4,Amber,"Kankakee, Illinois",Amber James ,Amber J.,Bartender,20
-12,23,4,Rachel,"Little Rock, Arkansas",Rachel Tchen ,Rachel T.,Unemployed,20
-13,23,4,Haley,"Las Vegas, Nevada",Haley Ferguson   ,Haley F.,Twin,20
-14,23,3,Jami,"St. Albert, Alberta",Jami Letain ,Jami L.,Bartender,20
-15,27,3,Shushanna,"Salt Lake City, Utah",Shushanna Mkrtychyan ,Shushanna M.,Mathematician,20
-16,25,3,Lace,"Denver, Colorado",Lace Morris ,Lace M.,Real Estate Agent,20
-17,28,2,Amanda,"Portland, Oregon","Amanda ""Mandi"" Kremer ",Amanda K.,Dentist,20
-18,23,2,Jacqueline,"Newport Beach, California","Jacqueline ""Jackie"" Dion ",Jacqueline D.,Gerontologist,20
-19,26,2,Samantha,"New Smyrna Beach, Florida",Samantha Passmore ,Samantha P.,Attorney,20
-20,23,2,Lauren,"Stillwater, Oklahoma","Lauren ""LB"" Barr ",Lauren B.,Fashion Buyer,20
-21,30,1,Breanne,"Seattle, Washington",Breanne Rice ,Breanne R.,Nutritional Therapist,20
-22,24,1,Isabel,"Branford, Connecticut","Isabel ""Izzy"" Goodkind ",Isabel G.,Graphic Designer,20
-23,23,1,Jessica,"Boca Raton, Florida",Jessica Moser ,Jessica M.,Accountant,20
-24,24,1,Laura,"Louisville, Kentucky",Laura Esselman ,Laura E.,Account Executive,20
-25,26,1,Lauren,"Houston, Texas",Lauren Russell ,Lauren R.,Math Teacher,20
-26,30,1,Maegan,"Visalia, California",Maegan Miller ,Maegan M.,Cowgirl,20
-27,27,1,Tiara,"Redmond, Washington",Tiara Soleim ,Tiara S.,Chicken Enthusiast,20
+index,age,elimination,first_name,hometown,name,name_abbreviation,occupation,season,height0,24,Winner,Jennifer,"Pembroke Pines, Florida",Jennifer Wilson,Jennifer W.,Teacher,9,1,23,7,Sadie,"Carlsbad, California",Sadie Murray,Sadie M.,Publicist,9,2,25,6,Lisa,"Portland, Oregon",Lisa Blank,Lisa B.,Marketing manager,9,3,24,5,Agnese,"Venice, Italy",Agnese Polliza,Agnese P.,Student,9,4,23,4,Jeanette,"Bloomingdale, Illinois",Jeanette Pawula,Jeanette P.,Teacher,9,5,22,4,Desiree,"Salt Lake City, Utah",Desiree Valentin,Desiree V.,Realtor,9,6,27,3,Jami,"Galveston, Texas",Jami Matzke,Jami M.,Event planner,9,7,28,3,Gina,"Chicago, Illinois",Gina Clark,Gina C.,Ultrasound technician,9,8,23,3,Erica,"Houston, Texas",Erica Rose,Erica R.,Socialite,9,9,30,2,Sarah,"Nelson, British Columbia",Sarah Schnare,Sarah S.,Journalist,9,10,27,2,Kim,"Newport Beach, California",Kim Jackson,Kim J.,Interior designer,9,11,30,2,Ellen,"New Haven, Connecticut",Ellen DeMaio,Ellen D.,Realtor,9,12,24,1,Tara,"St. Augustine, Florida",Tara Durr,Tara D.,Realtor,9,13,27,1,Rosella,"Chicago, Illinois",Rosella Fratto,Rosella F.,Make-up artist,9,14,29,1,Rita,"Richmond, VA",Rita Ghazal,Rita G.,Policy advisor,9,15,30,1,Renee,"Baltimore, MD",Renee Snell,Renee S.,Broadcast marketer,9,16,27,1,Meri,"Biloxi, MS",Meri Barr,Meri B.,Attorney,9,17,29,1,Laura,"San Diego, CA",Laura Morgan,Laura M.,Dolphin trainer,9,18,25,1,Jessica,"Charlotte, NC",Jessica Horner,Jessica H.,Assistant buyer,9,19,34,1,Heather,"Aliquippa, PA",Heather Sneed,Heather S.,Registered nurse,9,20,27,1,Elyse,"New York, NY",Elyse Hammer,Elyse H.,Physician,9,21,,1,Cosetta,Italy,Cosetta Blanca,Cosetta B.,Dancer,9,22,22,1,Claudia,"Boca Raton, FL",Claudia Gismondi,Claudia G.,Restaurateur,9,23,25,1,Carissa,"Cattaraugus, NY",Carissa Ilburg,Carissa I.,Attorney,9,24,28,1,Brit,"Columbus, OH",Brit Keeder,Brit K.,Beer chemist,9,25,28,1,Andrea,"Cincinnati, OH",Andrea Shirley,Andrea S.,Hotel concierge,9,26,23,1,April,"Chicago, IL",April Jacobs,April J.,Model,9,0,26,Winner,Tessa,"San Francisco, California",Tessa Horst,Tessa H.,Social Worker,10,1,28,8,Bevin,"Palo Alto, California",Bevin Nicole Powers,Bevin P.,Assistant,10,2,25,7,Danielle,"Bethel, Connecticut",Danielle Imwalle,Danielle I.,Graphic Designer,10,3,23,6,Amber,"Sugar Land, Texas",Amber Alchalabi,Amber A.,Teacher,10,4,23,5,Stephanie,"Overland Park, Kansas",Stephanie Wilhite,Stephanie W.,Project Manager,10,5,26,5,Tina,"Los Angeles, California",Tina Wu,Tina W.,Medical student,10,6,24,4,Kate,"Ravenel, South Carolina",Kate Brockhouse,Kate B.,Boutique owner,10,7,26,4,Nicole,"Charleston, SC",Nicole Clary,Nicole C.,Sales Manager,10,8,27,4,Stephanie,"Folly Beach, SC",Stephanie Tipper,Stephanie T.,Organ donor coordinator,10,9,26,3,Amanda,"Dallas, TX",Amanda Hackney,Amanda H.,Financial analyst,10,10,24,3,Erin,"Logansport, LA",Erin Parker,Erin P.,Financial analyst,10,11,24,3,Peyton,"La Vergne, Tennessee",Peyton Wright,Peyton W.,Sorority recruiter,10,12,26,2,Alexis,"Southlake, TX",Alexis Young,Alexis Y.,Attorney,10,13,23,2,Susan,"The Woodlands, TX",Susan Anderson,Susan A.,Boutique manager,10,14,28,2,Tiffany,"Boston, MA",Tiffany Warren,Tiffany W.,Medical equipment sales rep,10,15,29,1,Blakeney,"Birmingham, AL",Blakeney Rowe,Blakeney R.,Radio sales,10,16,23,1,Candace,"Hilton Head Island, SC",Candace DeCost,Candace D.,Waitress,10,17,23,1,Catherine,"Lake Forest, IL",Catherine Warren,Catherine W.,Former Miss Illinois,10,18,26,1,Danielle,"Bronx, NY",Danielle Vallis,Danielle V.,Attorney,10,19,23,1,Jackie,"Minneapolis, MN",Jackie Topelli,Jackie T.,Executive coordinator,10,20,27,1,Jeanette,"Tampa, FL",Jeanette Alvarez,Jeanette A.,Health care manager,10,21,32,1,Jessica,"New York, NY",Jessica Devallo,Jessica D.,Hedge fund analyst,10,22,33,1,Linda,"Cuyahoga Falls, OH",Linda Malek,Linda M.,Attorney,10,23,22,1,Lindsay,"Lawrence, KS",Lindsay Smith,Lindsay S.,Student,10,24,27,1,Tiffany,"St. Louis Park, MN",Tiffany Forester,Tiffany F.,Real estate sales/development,10,0,25,8,Deanna,"Newnan, Georgia",Deanna Pappas ,Deanna P.,Realtor,11,1,27,8,Jenni,"Wichita, Kansas",Jenni Croft,Jenni C.,Phoenix Suns Cheerleader,11,2,27,7,Bettina,"Washington, D.C.",Bettina Bell ,Bettina B.,Realtor,11,3,23,6,Sheena,"Walnut Creek, California",Sheena Stewart ,Sheena S.,Internet marketing executive,11,4,27,5,Hillary,"Philadelphia, Pennsylvania",Hillary Reisinger ,Hillary R.,Registered nurse,11,5,29,5,Kristy,"Gurnee, Illinois",Kristy Katzmann ,Kristy K.,Acupuncturist,11,6,26,4,Estefania,"Atlanta, Georgia","Estefania ""Stephy"" Kootz",Estefania K.,Executive assistant,11,7,24,4,Jade,"Nashville, Tennessee",Jade Beazley ,Jade B.,Boutique sales worker,11,8,26,4,McCarten,"Lemon Grove, California",McCarten Delaney  ,McCarten D.,Account manager,11,9,25,3,Lindsey,"Livonia, Michigan",Lindsey Hawkins,Lindsey H.,Model,11,10,23,3,Sarah,"O'Fallon, Illinois",Sarah Newlon,Sarah N.,Bar manager,11,11,25,3,Solisa,"Georgetown, Texas",Solisa Shoop ,Solisa S.,Esthetician,11,12,30,2,Michele,"South Brunswick, New Jersey",Michele Leavy ,Michele L.,Realtor,11,13,24,2,Mallory,"Honolulu, Hawaii",Mallory Simons,Mallory S.,Nanny,11,14,25,2,Erin,"Tampa, Florida",Erin Gardner,Erin G.,Publishing sales executive,11,15,27,1,Jessica,"Lady Lake, Florida",Jessica Kiss,Jessica K.,News anchor,11,16,24,1,Juli,"Chicago, Illinois",Juli Gilliam,Juli G.,Law student,11,17,31,1,Kim,"Woodbridge, Connecticut",Kim Orville,Kim O.,Realtor,11,18,33,1,Lori,"Annapolis, Maryland",Lori Langley ,Lori L.,Biology teacher,11,19,28,1,Melissa,"Westchester, New York",Melissa Buschel ,Melissa B.,Event planner,11,20,24,1,Morgan,"Tempe, Arizona",Morgan Becker,Morgan B.,Graduate student,11,21,25,1,Natalie,"Duncanville, Texas",Natalie Velasco,Natalie V.,Law student,11,22,31,1,Regina,"San Diego, California",Regina Doringa,Regina D.,Account representative,11,23,31,1,Tauni,"St. Louis Park, Minnesota",Tauni Nessler  ,Tauni N.,Emergency room nurse,11,24,35,1,Susan,"St. Charles, Illinois",Susan Stein,Susan S.,Project analyst,11,0,22,Winner,Shayne,"Malibu, California",Shayne Lamas ,Shayne L.,Actress,12,1,25,8,Chelsea,"Durango, Colorado",Chelsea Wanstrath ,Chelsea W.,Pharmaceutical sales rep.,12,2,27,7,Amanda,"Niceville, Florida",Amanda Rantuccio ,Amanda R.,Account Executive,12,3,26,6,Noelle,"Loveland, Colorado",Noelle Drake ,Noelle D.,Photographer,12,4,27,5,Marshana,"Brooklyn, New York",Marshana Ritchie ,Marshana R.,Fashion designer,12,5,22,5,Robin,"Holland, Michigan",Robin Canfield ,Robin C.,Advertising coordinator,12,6,22,4,Ashlee,"Jacksonville Beach, Florida",Ashlee Williss ,Ashlee W.,Singer-songwriter,12,7,25,4,Kelly,"Hollywood, California",Kelly Duncan,Kelly D.,Medical sales rep.,12,8,24,4,Holly,"Suffield, Ohio",Holly Durst  ,Holly D.,Children's book author,12,9,22,3,Amy,"Stockton, California",Amy,Amy,Nanny,12,10,33,3,Erin,"Venice, California",Erin Storm,Erin S.,Hot-dog vendor,12,11,33,3,Kristine,"Dillsburg, Pennsylvania",Kristine Heffelfinger ,Kristine H.,Personal trainer,12,12,28,2,Michelle,"Syracuse, New York",Michelle P.,Michelle P.,Administrative assistant,12,13,25,2,Carri,"Oklahoma City, Oklahoma",Carri Perrier  ,Carri P.,Church marketing rep.,12,14,25,2,Erin,"Seattle, Washington",Erin Harper  ,Erin H.,Event planner,12,15,24,1,Alyssa,"Boise, Idaho",Alyssa,Alyssa,Biology student,12,16,26,1,Amanda,"LaFollette, Tennessee",Amanda Petterman ,Amanda P.,Law student,12,17,30,1,Denise,"Washington, D.C",Denise,Denise,Attorney and former White House aide,12,18,24,1,Devon,"Austin, Texas",Devon,Devon,Makeup artist,12,19,23,1,Lesley,"Tampa, Florida",Lesley Geyer ,Lesley G.,Youth minister,12,20,33,1,Michele,"Laguna Niguel, California",Michele R.,Michele R.,Interior designer,12,21,30,1,Rebecca,"Alamo, California",Rebecca,Rebecca,Attorney,12,22,26,1,Stacey,"Chicago, Illinois",Stacey Elza ,Stacey E.,Graduate student,12,23,23,1,Tamara,"Beverly Hills, California",Tamara,Tamara,Cocktail waitress,12,24,33,1,Tiffany,"San Francisco, California",Tiffany,Tiffany,Real estate marketing rep.,12,0,25,Winner,Melissa,"Dallas, Texas",Melissa Rycroft ,Melissa R.,Sales Representative,13,1,24,Runner-up,Molly,"Brookfield, Wisconsin",Molly Malaney ,Molly M.,Department Store Buyer,13,2,29,7,Jillian,"Peace River, Alberta",Jillian Harris,Jillian H.,Interior Designer,13,3,24,6,Naomi,"Carlsbad, California",Naomi Rose Crespo ,Naomi C.,Flight Attendant,13,4,34,5,Stephanie,"Huntsville, Alabama",Stephanie Hogan ,Stephanie H.,Single Mother & Medical Marketing Rep.,13,5,27,4,Lauren,"Marlboro, New Jersey",Lauren Wanger,Lauren W.,Teacher,13,6,25,4,Megan,"Sewickley, Pennsylvania",Megan Parris ,Megan P.,Single Mother and Lacrosse Coach,13,7,29,4,Shannon,"Marshall, Missouri",Shannon Bair ,Shannon B.,Dental Hygienist,13,8,29,4,Nicole,"Blue Island, Illinois","Nicole ""Nikki"" Kaapke ",Nicole K.,Administrative Assistant,13,9,25,3,Erica,"Monroe, Connecticut",Erica DeSimone,Erica D.,Account Executive,13,10,27,3,Kari,"Lee's Summit, Missouri",Kari Fajen ,Kari F.,Account Executive,13,11,27,3,Natalie,"Morton, Illinois",Natalie Getz ,Natalie G.,Human Resources Recruiter,13,12,27,2,Raquel,"Recife, Pernambuco, Brazil",Raquel Medeiros ,Raquel M.,Medical Student,13,13,32,2,Sharon,"Batavia, New York",Sharon Staebell ,Sharon S.,Teacher,13,14,28,2,Lisa,"Boise, Idaho",Lisa Gonzalez ,Lisa G.,Public Relations Associate,13,15,24,1,Ann,"Phoenix, Arizona",Ann Lueders,Ann L.,Flight Attendant,13,16,26,1,Dominique,"Mt. Carmel, Pennsylvania",Dominique Carta,Dominique C.,Medical Sales Rep.,13,17,23,1,Emily,"Seattle, Washington",Emily,Emily,Casino Marketing Rep.,13,18,26,1,Jackie,"Springfield, Massachusetts",Jackie Hickey,Jackie H.,Wedding Coordinator,13,19,26,1,Julie,"Columbus, Ohio",Julie Dermotta,Julie D.,Teacher,13,20,25,1,Nicole,"Calgary, Alberta",Nicole Mah,Nicole M.,Menswear Buyer,13,21,36,1,Renee,"Southfield, Michigan",Renee Simlak,Renee S.,Jewelry Designer,13,22,23,1,Shelby,"Stockton, California",Shelby,Shelby,Account Executive,13,23,24,1,Stacia,"Orem, Utah",Stacia Mann,Stacia M.,Single Mother & Charity Accountant,13,24,28,1,Treasure,"Salt Lake City, Utah",Treasure Morgan,Treasure M.,Single Mother and Nurse Practitioner,13,0,23,Winner,Vienna,"Geneva, Florida",Vienna Girardi  ,Vienna G.,Marketing Representative,14,1,25,Runner-up,Tenley,"Newberg, Oregon",Tenley Molzahn  ,Tenley M.,College Admissions,14,2,26,7,Gia,"New York, New York",Gia Allemand  ,Gia A.,Swimsuit Model,14,3,25,6,Ali,"Williamstown, Massachusetts",Ali Fedotowsky  ,Ali F.,Advertising Account Manager,14,4,23,5,Corrie,"Kissimmee, Florida",Corrie Adamson ,Corrie A.,Wardrobe Consultant,14,5,25,4,Ashleigh,"North Potomac, Maryland",Ashleigh Hunt ,Ashleigh H.,Account Manager,14,6,25,4,Jessie,"Oakville, Ontario",Jessie Sulidis ,Jessie S.,Cosmetic Sales Manager,14,7,25,4,Kathryn,"Lexington, Kentucky",Kathryn Sherlock ,Kathryn S.,Corporate Flight Attendant,14,8,30,4,Ella,"La Follette, Tennessee",Ella Nolan  ,Ella N.,Hair Stylist,14,9,29,3,Elizabeth,"Imperial, Nebraska",Elizabeth Kitt (NE) ,Elizabeth K.,Nanny,14,10,32,3,Valishia,"San Bernardino, California",Valishia Savage ,Valishia S.,Homemaker,14,11,26,3,Michelle,"Anaheim, California",Michelle Kujawa ,Michelle K.,Office Manager,14,12,29,2,Ashley,"Pittsburgh, Pennsylvania",Ashley Elmore ,Ashley E.,Teacher,14,13,25,2,Christina,"San Diego, California",Christina McCasland ,Christina M.,Restaurant Manager,14,14,28,2,Rozlyn,"Richmond, Virginia",Rozlyn Papa ,Rozlyn P.,Model/Make-Up Artist,14,15,25,1,Alexa,"Galloway, Ohio",Alexa (Lex) McAllister ,Alexa M.,Entrepreneur,14,16,24,1,Caitlyn,"Winfield, Illinois",Caitlyn McCabe ,Caitlyn M.,Spokesmodel,14,17,29,1,Channy,"Santa Rosa, California",Channy Choch ,Channy C.,Mortgage Loan Officer,14,18,29,1,Elizabeth,"Union, Kentucky",Elizabeth Kreft (D.C.) ,Elizabeth (.,"Captain, Air National Guard",14,19,23,1,Emily,"West Chester, Ohio",Emily Harkins ,Emily H.,Fitness Model,14,20,24,1,Kimberly,"Norman, Oklahoma",Kimberly Sullivan ,Kimberly S.,NBA Dancer,14,21,25,1,Kirsten,"Aurora, Colorado",Kirsten Pittman ,Kirsten P.,Waitress,14,22,25,1,Sheila,"Scottsdale, Arizona",Sheila Marie Lidner ,Sheila L.,Commercial Pilot,14,23,24,1,Stephanie,"Morris, Illinois",Stephanie Mueller ,Stephanie M.,Dance Teacher,14,24,31,1,Tiana,"Calgary, Alberta",Tiana Kruzel ,Tiana K.,Medical Technician,14,0,25,Winner,Emily,"Morgantown, West Virginia",Emily Maynard ,Emily M.,Children's Hospital Event Planner,15,1,28,Runner-up,Chantal,"Mercer Island, Washington",Chantal O'Brien ,Chantal O.,Executive Assistant,15,2,26,9,Ashley,"Madawaska, Maine",Ashley Hebert ,Ashley H.,Dental Student,15,3,25,8,Shawntel,"Chico, California",Shawntel Newton ,Shawntel N.,Funeral Director,15,4,30,7,Michelle,"Salt Lake City, Utah",Michelle Money,Michelle M.,Hair stylist,15,5,25,7,Britt,"Woodinville, Washington",Britt Billmaier ,Britt B.,Food writer,15,6,26,6,Jackie,"Newport, Rhode Island",Jackie Gordon ,Jackie G.,Artist,15,7,24,6,Alli,"Columbus, Ohio",Alli Travis ,Alli T.,Apparel merchant,15,8,24,5,Lisa,"Ottawa, Kansas",Lisa Morrisey ,Lisa M.,Marketing Coordinator,15,9,26,5,Marissa,"Mesa, Arizona",Marissa May ,Marissa M.,Sports Publicist,15,10,26,5,Ashley,"Ellerbe, North Carolina",Ashley Spivey ,Ashley S.,Nanny,15,11,25,4,Lindsay,"Plano, Texas",Lindsay Hill ,Lindsay H.,First grade teacher,15,12,30,4,Meghan,"Princeton, New Jersey",Meghan Merritt,Meghan M.,Fashion Marketer,15,13,26,4,Stacey,"Quincy, Massachusetts",Stacey Quirpel,Stacey Q.,Bartender,15,14,27,3,Kimberly,"Orlando, Florida",Kimberly Coon ,Kimberly C.,Marketing Coordinator,15,15,27,3,Sarah,"Denver, Colorado",Sarah Powell ,Sarah P.,Real Estate Broker,15,16,25,3,Madison,"Vail, Colorado",Madison Garton ,Madison G.,Model,15,17,28,2,Keltie,"Sherwood Park, Alberta",Keltie Colleen ,Keltie C.,Radio City Rockette,15,18,32,2,Melissa,"Westport, Connecticut",Melissa Schreiber ,Melissa S.,Waitress,15,19,29,2,Raichel,"Fullerton, California",Raichel Goodyear ,Raichel G.,Manscaper,15,20,25,1,Britnee,"Holland, Pennsylvania",Britnee,Britnee,Paralegal,15,21,30,1,Cristy,"Davie, Florida",Cristy Caserta ,Cristy C.,Attorney,15,22,26,1,Jessica,"Seattle, Washington","Jessica ""J"" Adams ",Jessica A.,Operations Manager,15,23,28,1,Jill,"Frisco, Texas",Jill Ruskowski ,Jill R.,Sales director,15,24,27,1,Lacey,"Tampa, Florida",Lacey Garbelman ,Lacey G.,Insurance agent,15,25,26,1,Lauren,"Culpeper, Virginia",Lauren Moore ,Lauren M.,High School Teacher,15,26,27,1,Lisa,"Dix Hills, New York",Lisa P.,Lisa P.,Sales Consultant,15,27,30,1,Rebecca,"Mission Viejo, California",Rebecca,Rebecca,Esthetician,15,28,28,1,Renee,"Palos Hills, Illinois",Renee Halpin,Renee H.,Nanny,15,29,25,1,Sarah,"Saginaw, Michigan",Sarah Ledtke ,Sarah L.,Musical Theatre Performer,15,0,28,Winner,Courtney,"Scottsdale, Arizona",Courtney Robertson  ,Courtney R.,Model,16,1,27,Runner-up,Lindzi,"Newcastle, Washington ",Lindzi Cox ,Lindzi C.,Business development manager,16,2,26,9,Nicki,"Hurst, Texas",Nicki Sterling ,Nicki S.,Dental hygienist,16,3,24,8,Kacie,"Clarksville, Tennessee ",Kacie Boguskie ,Kacie B.,Administrative assistant,16,4,27,7,Emily,"Chapel Hill, North Carolina",Emily O'Brien ,Emily O.,PhD Student,16,5,27,7,Rachel,"Southampton, Massachusetts",Rachel Truehart ,Rachel T.,Fashion sales representative,16,6,25,6,Jamie,"Dryden, New York",Jamie Otis ,Jamie O.,Registered nurse,16,7,26,6,Casey,"Leawood, Kansas",Casey Shteamer ,Casey S.,Trading clerk,16,8,33,6,Blakeley,"Rutherfordton, North Carolina",Blakeley Jones ,Blakeley J.,VIP cocktail waitress,16,9,28,5,Jennifer,"Cache, Oklahoma",Jennifer Fritsch ,Jennifer F.,Accountant,16,10,24,5,Elyse,"Chicago, Illinois",Elyse Myers ,Elyse M.,Personal trainer,16,11,33,4,Monica,"Yuba, California",Monica Spannbauer ,Monica S.,Dental consultant,16,12,26,4,Samantha,"Pittsburgh, Pennsylvania",Samantha Levey  ,Samantha L.,Advertising account manager,16,13,27,3,Jaclyn,"Newton, Massachusetts",Jaclyn Swartz ,Jaclyn S.,Advertising account manager,16,14,23,3,Erika,"Charlottesville, Virginia",Erika Uhlig ,Erika U.,Law student,16,15,26,3,Brittney,"Colorado Springs, Colorado",Brittney Schreiner ,Brittney S.,Medical sales representative,16,16,28,2,Shawn,"Cincinnati, Ohio",Shawn Reynolds ,Shawn R.,Financial advisor,16,17,27,2,Jenna,"Loveland, Ohio",Jenna Burke  ,Jenna B.,Blogger,16,18,23,1,Amber,"Port Coquitlam, British Columbia",Amber Bacon ,Amber B.,Labor and delivery nurse,16,19,28,1,Amber,"Waverly, Nebraska",Amber Tierney  ,Amber T.,Critical care nurse,16,20,25,1,Anna,"Detroit, Michigan",Anna Snowball  ,Anna S.,Student,16,21,30,1,Dianna,"San Gabriel, California",Dianna Martinez ,Dianna M.,Nonprofit director,16,22,34,1,Holly,"Salyersville, Kentucky",Holly Johnson ,Holly J.,Pharmaceutical sales representative,16,23,29,1,Lyndsie,"London, England",Lyndsie James ,Lyndsie J.,Internet entrepreneur,16,24,35,1,Shira,"Massapequa Park, New York",Shira Astrof ,Shira A.,Actress,16,0,26,Winner,Catherine,"Seattle, Washington",Catherine Giudici ,Catherine G.,Graphic Designer,17,1,24,Runner-up,Lindsay,"Fort Bragg, North Carolina",Lindsay Yenter ,Lindsay Y.,Substitute Teacher,17,2,32,9,AshLee,"Houston, Texas",AshLee Frazier ,AshLee F.,Personal Organizer,17,3,26,8,Desiree,"Northglenn, Colorado",Desiree Hartsock ,Desiree H.,Bridal Stylist,17,4,24,7,Lesley,"Fort Smith, Arkansas",Lesley Murphy ,Lesley M.,Political Consultant,17,5,24,7,Tierra,"Las Vegas, Nevada",Tierra LiCausi ,Tierra L.,Leasing Consultant,17,6,24,6,Daniella,"Belmont, California",Daniella McBride ,Daniella M.,Commercial Casting Associate,17,7,29,6,Selma,"Borrego Springs, California",Selma Alameri ,Selma A.,Real Estate Dealer,17,8,26,6,Sarah,"Evergreen, Colorado",Sarah Herron  ,Sarah H.,Advertising Executive,17,9,24,5,Robyn,"Topeka, Kansas",Robyn Howard  ,Robyn H.,Oil Field Account Manager,17,10,25,5,Jackie,"Ormond Beach, Florida",Jackie Parr ,Jackie P.,Cosmetics Consultant,17,11,26,4,Amanda,"Bakersfield, California",Amanda Meyer ,Amanda M.,Fit Model,17,12,28,4,Leslie,"Ruskin, Florida",Leslie Hughes ,Leslie H.,Poker Dealer,17,13,25,3,Kristy,"Darien, Wisconsin",Kristy Kaminski ,Kristy K.,Model,17,14,30,3,Taryn,"Troutdale, Oregon",Taryn Renee Daniels ,Taryn D.,Health Club Manager,17,15,25,3,Kacie,See below,Kacie Boguskie ,Kacie B.,See below,17,16,25,2,Brooke,"Pittsburgh, Pennsylvania",Brooke Burchette ,Brooke B.,Community Organizer,17,17,31,2,Diana,"Sandy, Utah",Diana Weeks Willardson ,Diana W.,Salon Owner,17,18,27,2,Katie,"Woodstock, Illinois",Katie Levans ,Katie L.,Yoga Instructor,17,19,25,1,Ashley,"Garner, North Carolina",Ashley Harper ,Ashley H.,Fashion Model,17,20,28,1,Ashley,"Macomb, Michigan",Ashley Palenkas ,Ashley P.,Hair Stylist,17,21,28,1,Kelly,"Chattanooga, Tennessee",Kelly Dutton ,Kelly D.,Cruise Ship Entertainer,17,22,29,1,Keriann,"Agoura Hills, California",Keriann Miranda ,Keriann M.,Entrepreneur,17,23,24,1,Lacey,"Valencia, California",Lacey Latka ,Lacey L.,Graduate Student,17,24,27,1,Lauren,"Cranston, Rhode Island",Lauren Marchetti ,Lauren M.,Journalist,17,25,25,1,Paige,"New York City, New York",Paige Vigil,Paige V.,Jumbotron Operator,17,0,26,Winner,Nikki,"Kearney, Missouri",Nikki Ferrell  ,Nikki F.,Pediatric Nurse,18,691,32,Runner-up,Clare,"Sacramento, California",Clare Crawley ,Clare C.,Hairstylist,18,652,26,9,Andi,"Buckhead, Georgia",Andi Dorfman ,Andi D.,Assistant District Attorney,18,653,32,8,Renee,"Martha's Vineyard, Massachusetts ",Renee Oteri ,Renee O.,Real Estate Agent,18,634,24,7,Chelsie,"Lexington, Ohio",Chelsie Webster ,Chelsie W.,Science Educator,18,635,29,7,Sharleen,"Ottawa, Ontario",Sharleen Joynt  ,Sharleen J.,Opera Singer,18,646,29,6,Kat,"Iowa City, Iowa",Kat Hurd ,Kat H.,Medical Sales Representative/NBA Dancer,18,677,22,6,Cassandra,"Shelby Charter Township, Michigan",Cassandra Ferguson ,Cassandra F.,Former NBA Dancer,18,708,26,5,Alli,"Orland Park, Illinois",Alli Restko ,Alli R.,Nanny,18,669,25,5,Danielle,"Litchfield, Illinois",Danielle Ronco ,Danielle R.,Psychiatric Nurse,18,6510,27,5,Kelly,"Conyers, Georgia",Kelly Travis  ,Kelly T.,Dog Lover,18,6011,27,4,Elise,"Forty Fort, Pennsylvania",Elise Mosca ,Elise M.,First Grade Teacher,18,6512,26,4,Lauren,"Austin, Texas",Lauren Solomon ,Lauren S.,Music Composer,18,6413,24,3,Christy,"Aurora, Illinois",Christy Hansen ,Christy H.,Marketing Manager,18,6514,25,3,Lucy,"Santa Barbara, California","Lucy !Lucinda ""Lucy"" Aragon ",Lucy A.,Free Spirit,18,6915,27,2,Amy,"Clermont, Florida",Amy Long ,Amy L.,Local News Reporter,18,6616,27,2,Chantel,"Miami, Florida",Chantel Forrest ,Chantel F.,Account Manager,18,7017,24,2,Victoria,"Porto Alegre, Brazil",Victoria Lima ,Victoria L.,Legal Assistant,18,6518,24,1,Alexis,"Tampa, Florida",Alexis Morgado  ,Alexis M.,Communications Director/NHL Ice Girl,18,6419,31,1,Amy,"Apopka, Florida",Amy Jokinen ,Amy J.,Massage Therapist,18,6720,25,1,Ashley,"Roanoke, Texas",Ashley Poe ,Ashley P.,Grade School Teacher,18,6721,23,1,Christine,"Miami, Florida",Christine Llano  ,Christine L.,Police Support Specialist,18,6622,23,1,Kylie,"Rockford, Illinois",Kylie Lewis  ,Kylie L.,Interior Designer,18,6923,25,1,Lacy,"Antelope Acres, California",Lacy Faddoul  ,Lacy F.,Nursing Home Owner,18,6524,25,1,Lauren,"Edmond, Oklahoma",Lauren Higginson ,Lauren H.,Mineral Coordinator,18,6925,25,1,Maggie,"Wagener, South Carolina",Maggie Gantt  ,Maggie G.,Personal Banker,18,6626,26,1,Valerie,"Sutter, California",Valerie Eredia  ,Valerie E.,Personal Trainer,18,650,29,Winner,Whitney,"Louisville, Kentucky ",Whitney Bischoff   ,Whitney B.,Fertility Nurse,19,671,25,Runner-up,Becca,"Shreveport, Louisiana ",Becca Tilley  ,Becca T.,Chiropractic Assistant,19,632,29,9,Kaitlyn,"Leduc, Alberta ",Kaitlyn Bristowe ,Kaitlyn B.,Dance Instructor,19,643,28,8,Jade,"Gering, Nebraska ",Jade Roper   ,Jade R.,Cosmetics Developer,19,644,29,7,Carly,"Arlington, Texas",Carly Waddell ,Carly W.,Cruise Ship Singer,19,645,27,7,Britt,"Wolcott Mills, Michigan",Britt Nilsson  ,Britt N.,Waitress,19,656,24,6,Megan,"Nashville, Tennessee",Megan Bell ,Megan B.,Make-Up Artist,19,647,28,6,Kelsey,"Hudsonville, Michigan ",Kelsey Poe  ,Kelsey P.,Guidance Counselor,19,658,26,6,Ashley,"Great Falls, Virginia ",Ashley Iaconetti  ,Ashley I.,Nanny/Freelance Journalist,19,669,21,5,Mackenzie,"Maple Valley, Washington",Mackenzie Deonigi ,Mackenzie D.,Dental Assistant,19,6410,27,5,Samantha,"Indianapolis, Indiana ",Samantha Steffen  ,Samantha S.,Fashion Designer,19,6511,24,4,Ashley,"Vinings, Georgia",Ashley Salter ,Ashley S.,Hair Stylist,19,6612,30,4,Juelia,"Beaverton, Oregon",Juelia Kinney  ,Juelia K.,Esthetician,19,6513,26,4,Nikki,"Hasbrouck Heights, New Jersey",Nikki Delventhal ,Nikki D.,Former NFL Cheerleader,19,6814,25,4,Jillian,"Howland, Ohio ",Jillian Anderson  ,Jillian A.,News Producer,19,6215,29,3,Amber,"Kankakee, Illinois ",Amber James  ,Amber J.,Bartender,19,6316,29,3,Tracy,"Wellington, Florida",Tracy Darakis ,Tracy D.,Fourth Grade Teacher,19,6417,33,3,Trina,"Algonquin, Illinois ",Trina Scherenberg  ,Trina S.,Special Education Teacher,19,6518,24,2,Alissa,"Hamilton, New Jersey",Alissa Giambrone ,Alissa G.,Flight Attendant,19,6419,24,2,Jordan,"Windsor, Colorado",Jordan Branch ,Jordan B.,Student,19,6520,28,2,Kimberly,"Wantagh, New York ",Kimberly Sherbach ,Kimberly S.,Yoga Instructor,19,6721,30,2,Tandra,"Sandy, Utah",Tandra Steiner ,Tandra S.,Executive Assistant,19,7122,26,2,Tara,"Fort Lauderdale, Florida",Tara Eddings  ,Tara E.,Sport Fishing Enthusiast,19,7023,24,1,Amanda,"Lake in the Hills, Illinois",Amanda Goerlitz ,Amanda G.,Ballet Teacher,19,6424,25,1,Bo,"Carpinteria, California",Bo Stanley ,Bo S.,Plus-Size Model,19,6925,26,1,Brittany,"Temecula, California",Brittany Fetkin ,Brittany F.,WWE Diva-in-Training,19,6426,25,1,Kara,"Brownsville, Kentucky",Kara Wilson ,Kara W.,High School Soccer Coach,19,6727,25,1,Michelle,"Provo, Utah",Michelle Davis ,Michelle D.,Wedding Cake Baker,19,6328,31,1,Nicole,"Scottsdale, Arizona",Nicole Meacham  ,Nicole M.,Real Estate Agent,19,6829,28,1,Reegan,"Manhattan Beach, California",Reegan Cornwell ,Reegan C.,Cadaver Tissue Saleswoman,19,660,25,Winner,Lauren,"West Linn, Oregon",Lauren Bushnell   ,Lauren B.,Flight Attendant,20,671,24,Runner-up,Joelle,"Dallas, Texas","Joelle ""JoJo"" Fletcher  ",Joelle F.,Real Estate Developer,20,642,24,9,Caila,"Hudson, Ohio",Caila Quinn  ,Caila Q.,Software Sales Representative,20,643,25,8,Amanda,"Rancho Santa Margarita, California",Amanda Stanton  ,Amanda S.,Esthetician,20,634,26,7,Becca,"Shreveport, Louisiana",Becca Tilley ,Becca T.,Chiropractic Assistant,20,655,23,7,Emily,"Las Vegas, Nevada",Emily Ferguson   ,Emily F.,Twin,20,646,25,6,Lauren,"Dexter, Michigan",Lauren Himle ,Lauren H.,Kindergarten Teacher,20,657,23,6,Olivia,"Bristol, Virginia",Olivia Caridi  ,Olivia C.,Former News Anchor,20,688,25,6,Leah,"Greenwood Village, Colorado",Leah Block ,Leah B.,Event Planner,20,669,25,5,Jennifer,"Lauderdale Lakes, Florida",Jennifer Saviano ,Jennifer S.,Small Business Owner,20,6710,24,5,Jubilee,"Fort Lauderdale, Florida",Jubilee Sharpe  ,Jubilee S.,War Veteran,20,6411,30,4,Amber,"Kankakee, Illinois",Amber James ,Amber J.,Bartender,20,6312,23,4,Rachel,"Little Rock, Arkansas",Rachel Tchen ,Rachel T.,Unemployed,20,6513,23,4,Haley,"Las Vegas, Nevada",Haley Ferguson   ,Haley F.,Twin,20,6414,23,3,Jami,"St. Albert, Alberta",Jami Letain ,Jami L.,Bartender,20,6515,27,3,Shushanna,"Salt Lake City, Utah",Shushanna Mkrtychyan ,Shushanna M.,Mathematician,20,6216,25,3,Lace,"Denver, Colorado",Lace Morris ,Lace M.,Real Estate Agent,20,7017,28,2,Amanda,"Portland, Oregon","Amanda ""Mandi"" Kremer ",Amanda K.,Dentist,20,6818,23,2,Jacqueline,"Newport Beach, California","Jacqueline ""Jackie"" Dion ",Jacqueline D.,Gerontologist,20,6919,26,2,Samantha,"New Smyrna Beach, Florida",Samantha Passmore ,Samantha P.,Attorney,20,6420,23,2,Lauren,"Stillwater, Oklahoma","Lauren ""LB"" Barr ",Lauren B.,Fashion Buyer,20,6521,30,1,Breanne,"Seattle, Washington",Breanne Rice ,Breanne R.,Nutritional Therapist,20,6722,24,1,Isabel,"Branford, Connecticut","Isabel ""Izzy"" Goodkind ",Isabel G.,Graphic Designer,20,6623,23,1,Jessica,"Boca Raton, Florida",Jessica Moser ,Jessica M.,Accountant,20,6424,24,1,Laura,"Louisville, Kentucky",Laura Esselman ,Laura E.,Account Executive,20,6425,26,1,Lauren,"Houston, Texas",Lauren Russell ,Lauren R.,Math Teacher,20,6526,30,1,Maegan,"Visalia, California",Maegan Miller ,Maegan M.,Cowgirl,20,6527,27,1,Tiara,"Redmond, Washington",Tiara Soleim ,Tiara S.,Chicken Enthusiast,20,68
